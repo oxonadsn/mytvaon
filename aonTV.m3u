@@ -1,0 +1,1480 @@
+#EXTM3U x-description="aonTV"
+#PLAYLIST: aonTV
+ 
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/130_y_9Jka0VhdxwSbtiYqBNXEm5scD2HjzfM8.png",One31
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/131_y_3DPNEFWTadeZ6Jsl9AI10RXbcCkwj7ym.png",ThairatTV
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_thairath/hd_thairath.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/133_y_BPJVyimD7beLf4AErFkTjG6ISC0hxWtz.png",AmarinTV
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_amarin/hdamarin.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/128_y_cVJ9st4Ddv8m5PhaQMlgyB7HFUALYiZr.png",Mono29
+https://lb-mvtv-live.v2h-cdn.com/redirect/mono/mono.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://img-ha.mthcdn.com/PMLaDCYt-RHSFWZr_xlhCRnIZYc=/mthai.com/app/uploads/2020/07/tv-3hd.png",3HD_5
+https://cdn726.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/chunklist_w737889289_b2000000_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=a8be431f31&did=Nk5YUThBWGxlbUEzMVZVNzhjSlFMVzBCaFh4NGV5WUg&mpass=VQfY0keg-j6XeBXh-sH6DSgIOG2Kbn-7F7oMHVgfhGe9dyb6dCC4baNAYF2T-bc4LMxoCXF0IUVTW8cu8Zd-7oGKpEdEg2kSnQMTY_TXIXQPUo4qU1UtNQ0YgotaRwNWICDEZveEyI2cEAMGyF4csjXe&sid=d06efc0d96&rt=1701697428&ds=86400&tk=kzQy7DP7JYerXyNvBmBsf2gLH9JrVhdXrnhua-7z-no
+#EXTINF:-1 tvg-logo="https://img-ha.mthcdn.com/PMLaDCYt-RHSFWZr_xlhCRnIZYc=/mthai.com/app/uploads/2020/07/tv-3hd.png",3HD_ุุ6
+https://freelive2.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8?nimblesessionid=11424196&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMyAyOjQ5OjAzIFBNJmhhc2hfdmFsdWU9VXlKbTJYQ2ZEN0dYYTN4Y1RCNnp6QT09JnZhbGlkbWludXRlcz0y
+ 
+#EXTINF:-1 tvg-id="monomax1" tvg-name="Monomax 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Entertainment",Monomax 1
+https://3mjmbtn8rm.3ppnkog.com/do-ball.com/monomax-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI2IDM6MjU6MTIgQU0maGFzaF92YWx1ZT10dmdPRlZuc2xwWHpyYUpCendBN3pnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x
+
+#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 20 มิ.ย. พอลล่าสร้างร้าน
+https://www.watchlakorn.in/egdeny/da8d0f8db7b10a729be9cee26b7eaf18/aGQ=/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 25 เมษา
+https://www.watchlakorn.in/egdeny/bbc537ee40bb3e9026dfeec56661d82c/aGQ=/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2022/08/The-Swindlers-2017-300x450.png?w=200",The Swindler
+https://hot.24playerhd.com/iosplaylist/908205a0d2ef0432f7a3061fb1edf767/908205a0d2ef0432f7a3061fb1edf767.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2025/06/Elio-2025-%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%AD-300x450.png?w=200",Elio
+https://main.24playerhd.com/newplaylist/adf1dbef7b968a436378f46b/adf1dbef7b968a436378f46b.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2025/11/In-Your-Dreams-2025-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%9D%E0%B8%B1%E0%B8%99-300x450.png?w=200",In Your dream
+https://main.24playerhd.com/newplaylist/5272e3fe0b7722768099925b/5272e3fe0b7722768099925b.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2024/07/Toy-Story-2-1999-%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-2-300x450.jpg?w=200",Toy Story2
+https://enjoy24cdn.com/hlsr2/b05090798ba7ace7ec0c24917b076958/master.m3u8
+#EXTINF:-1 tvg-logo="https://lk-hd.org/wp-content/uploads/2023/11/Toy-Story-3-2010-%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-%E0%B8%A0%E0%B8%B2%E0%B8%84-3.jpg?w=200",Toy Story3
+https://enjoy24cdn.com/hlsr2/ff5ba5884fa80eb132591922923a136c/master.m3u8
+#EXTINF:-1 tvg-logo="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%87%E0%B9%82%E0%B8%94%E0%B8%94_%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9A%E0%B8%B5%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C#/media/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Hoppers_film_poster.png?w=200",Hopper
+https://main.123hd-serie.com/newplaylist/44c314ae5007160869d21587/44c314ae5007160869d21587.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/04/Sins-of-Kujo-2026-%E0%B8%84%E0%B8%B8%E0%B9%82%E0%B8%88-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%9B-300x450.jpg?w=200",Sin of Kujo Ep1
+https://main.123hd-serie.com/newplaylist/4dabc29fe358b88d6f618623/4dabc29fe358b88d6f618623.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/04/Sins-of-Kujo-2026-%E0%B8%84%E0%B8%B8%E0%B9%82%E0%B8%88-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%9B-300x450.jpg?w=200",Sin of Kujo Ep2
+https://main.123hd-serie.com/newplaylist/d6556e36f8c96a97a2243023/d6556e36f8c96a97a2243023.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/04/Sins-of-Kujo-2026-%E0%B8%84%E0%B8%B8%E0%B9%82%E0%B8%88-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%9B-300x450.jpg?w=200",Sin of Kujo Ep3
+https://main.123hd-serie.com/newplaylist/8e69693ba602c55f96aa7ac8/8e69693ba602c55f96aa7ac8.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/04/Sins-of-Kujo-2026-%E0%B8%84%E0%B8%B8%E0%B9%82%E0%B8%88-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%9B-300x450.jpg?w=200",Sin of Kujo Ep4
+https://main.123hd-serie.com/newplaylist/142c2b8e0954785b21026c76/142c2b8e0954785b21026c76.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2024/11/Conquer-Lahad-Datu-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%AE%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%95%E0%B8%B9-2024-187x269.jpg?w=200",Conquer Lahad Datu ปฏิบัติการลาฮัดดาตู 
+https://main.24playerhd.com/newplaylist/b640eb0763df90cf2a1a10c3/b640eb0763df90cf2a1a10c3.m3u8
+
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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?w=200", Elio
+https://main.24playerhd.com/newplaylist/adf1dbef7b968a436378f46b/adf1dbef7b968a436378f46b.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.123-hdd.com/wp-content/uploads/2025/08/The-Stone-2025-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%AA%E0%B9%82%E0%B8%95%E0%B8%99-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%97%E0%B9%89-%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%81%E0%B9%8A-300x450.png?w=200",พระแท้คนเก๊
+https://main.24playerhd.com/newplaylist/09e2bd0055172e2236835dae/09e2bd0055172e2236835dae.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg
+?w=200",Weapon
+https://main.24playerhd.com/newplaylist/ae9caa0c219243329b186054/ae9caa0c219243329b186054.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.pptvhd36.com/thumbor/2025/04/25/news-2a1d135.jpg?w=200",สงครามส่งด่วน EP1
+https://main.24playerhd.com/newplaylist/9e524850ee70540fa417df65/9e524850ee70540fa417df65.m3u8
+#EXTINF:-1 tvg-logo="https://img.pptvhd36.com/thumbor/2025/04/25/news-2a1d135.jpg?w=200",สงครามส่งด่วน EP2
+https://main.24playerhd.com/newplaylist/0c809d28787de0ba8da9d8bd/0c809d28787de0ba8da9d8bd.m3u8
+#EXTINF:-1 tvg-logo="https://img.pptvhd36.com/thumbor/2025/04/25/news-2a1d135.jpg?w=200",สงครามส่งด่วน EP3
+https://main.24playerhd.com/m3u8/e4855a954171109b9c111318/e4855a954171109b9c111318168.m3u8
+#EXTINF:-1 tvg-logo="https://img.pptvhd36.com/thumbor/2025/04/25/news-2a1d135.jpg?w=200",สงครามส่งด่วน EP4
+https://main.24playerhd.com/m3u8/9f753e301f0eff317adcecba/9f753e301f0eff317adcecba168.m3u8
+#EXTINF:-1 tvg-logo="https://img.pptvhd36.com/thumbor/2025/04/25/news-2a1d135.jpg?w=200",สงครามส่งด่วน EP5
+https://main.24playerhd.com/m3u8/c1cb68117cc1a76e5db2ee3e/c1cb68117cc1a76e5db2ee3e168.m3u8
+#EXTINF:-1 tvg-logo="https://img.pptvhd36.com/thumbor/2025/04/25/news-2a1d135.jpg?w=200",สงครามส่งด่วน EP6
+https://main.24playerhd.com/m3u8/6e338fa460c709fe1f0f740e/6e338fa460c709fe1f0f740e168.m3u8
+#EXTINF:-1 tvg-logo="https://img.pptvhd36.com/thumbor/2025/04/25/news-2a1d135.jpg?w=200",สงครามส่งด่วน EP7
+https://main.24playerhd.com/m3u8/a3572ce26181c84297ad6e62/a3572ce26181c84297ad6e62168.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/qFGUgdzcT83JdT4oyOJak861Qyj.jpg?w=200",Hitman in love EP1
+https://main.24playerhd.com/newplaylist/44d1602ccd2247c865f9ed1d/44d1602ccd2247c865f9ed1d.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/qFGUgdzcT83JdT4oyOJak861Qyj.jpg?w=200",Hitman in love EP2
+https://main.24playerhd.com/newplaylist/888ab64a671071eba1bdf18e/888ab64a671071eba1bdf18e.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/qFGUgdzcT83JdT4oyOJak861Qyj.jpg?w=200"?w=200",Hitman in love EP3
+https://main.24playerhd.com/newplaylist/41e63ca4db47b97e6cd9874f/41e63ca4db47b97e6cd9874f.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/qFGUgdzcT83JdT4oyOJak861Qyj.jpg?w=200"?w=200",Hitman in love EP4
+https://main.24playerhd.com/newplaylist/071d939db0748b9ce62c4ea0/071d939db0748b9ce62c4ea0.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/qFGUgdzcT83JdT4oyOJak861Qyj.jpg?w=200"?w=200",Hitman in love EP5
+https://hot.24playerhd.com/iosplaylist/6e4bbf56cc907ae5388dbc8b8c462b9c/6e4bbf56cc907ae5388dbc8b8c462b9c.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/qFGUgdzcT83JdT4oyOJak861Qyj.jpg?w=200"?w=200",Hitman in Love EP
+https://hot.24playerhd.com/iosplaylist/6e4bbf56cc907ae5388dbc8b8c462b9c/6e4bbf56cc907ae5388dbc8b8c462b9c.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",Bein3
+https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/beinsporthd3_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjQgOToyNzoxNiBBTSZoYXNoX3ZhbHVlPXAxUnk2MTlsNFRPN0dnTWVIM0l3UVE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD1iZ2hyNzY2NDE4
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",Bein3
+https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/beinsporthd3_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.nung-th.net/wp-content/uploads/2025/07/Hidden-Face-207x300.jpg",Hidden face
+https://text-lb.xmoviedo24.com/playlist2/4ea7fbf3Eyhpq/master.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/The_Substance_poster.jpg",The Substance 2024 EN
+https://main.24playerhd.com/newplaylist/592a86e655d4bf80a673366a/592a86e655d4bf80a673366a.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/The_Polar_Bears_poster.jpg",The Polar Bare TH
+https://stream1.movie2free.tv/cdn/master/31496703e520fd84df39b4c6252b1e8f/master.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.korseries.com/wp-content/uploads/2024/08/hijack-1971-poster-1.jpg",hijack-1971 THmovie2free.tv
+https://stream1.movie2free.tv/cdn/master/be983084a63e5448f2806f202659a63e/master.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2021/12/03174714/5L9IPUqYZKXvM03XnUhM6OWenEH.jpg",wheel of fortune
+https://bg2-pbl.posticked.cfd/aes/tyH0giqmmXrciRV2zEqU2Q/1743954013/storage4/movies/14034966-wheel-of-fortune-and-fantasy-2021-1643822471/8f99acef488422d50e366ab20f414e95.mp4/index.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/5jPRwQFPrMKEuRo9LGPxi9/fff1e892f2e6b535844d72cb65e1e425/en_us_t_i_main_geeked_week_2024_buddha_data_vertical_27x40_rgb_pre_1.jpg",อนาคต EP1
+https://main.24playerhd.com/newplaylist/95e0418ead4e1d56b26dd152/95e0418ead4e1d56b26dd152.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/5jPRwQFPrMKEuRo9LGPxi9/fff1e892f2e6b535844d72cb65e1e425/en_us_t_i_main_geeked_week_2024_buddha_data_vertical_27x40_rgb_pre_1.jpg",อนาคต EP2
+https://main.24playerhd.com/newplaylist/6a9582983f859c04677f53da/6a9582983f859c04677f53da.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/5jPRwQFPrMKEuRo9LGPxi9/fff1e892f2e6b535844d72cb65e1e425/en_us_t_i_main_geeked_week_2024_buddha_data_vertical_27x40_rgb_pre_1.jpg",อนาคต EP3
+https://main.24playerhd.com/newplaylist/6a9582983f859c04677f53da/6a9582983f859c04677f53da.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/5jPRwQFPrMKEuRo9LGPxi9/fff1e892f2e6b535844d72cb65e1e425/en_us_t_i_main_geeked_week_2024_buddha_data_vertical_27x40_rgb_pre_1.jpg",อนาคต EP4
+https://main.24playerhd.com/newplaylist/5d15aac43a8cb39de67be690/5d15aac43a8cb39de67be690.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Music_by_John_Williams#/media/File:Music_by_John_Williams_poster.jpg",Music By John William
+https://main.24playerhd.com/newplaylist/acf4533f87235fe5dd11c91b/acf4533f87235fe5dd11c91b.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2016/10/Have-a-Song-on-Your-Lips-2015.jpg",Have a Song on your Lips
+https://streamhls.com/view/f231a933-d2ca-51ba-a7b9-e121b61d95f2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/My_PS_Partner-poster.jpg/220px-My_PS_Partner-poster.jpg",Watcha Wearin
+https://streamhls.com/view/18d30b35-b9cf-5b1d-9eb5-4ecb00e3f8cf.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/02/Obsessed-2014-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.png",Obsessed 2014
+https://main.24playerhd.com/newplaylist/fdb4444c4e87f26be8ee12a6/fdb4444c4e87f26be8ee12a6.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Man-in-Love-2021-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%A7-1-187x269.jpg",Men In Love
+https://main.24playerhd.com/newplaylist/cdd8110c9270cda442b1f279/cdd8110c9270cda442b1f279.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/No-More-Bets-2023-300x450.jpg",No More Bet
+https://main.24playerhd.com/m3u8/733b5820f010d281d0d3d8d4/733b5820f010d281d0d3d8d4168.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP1
+https://main.24playerhd.com/newplaylist/a7f07c820d55618d99836ed1/a7f07c820d55618d99836ed1.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP2
+https://main.24playerhd.com/newplaylist/7eba1cd9e809cc1ea3e481e3/7eba1cd9e809cc1ea3e481e3.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP3
+https://main.24playerhd.com/newplaylist/7088306b8f7ed0f849cf4360/7088306b8f7ed0f849cf4360.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP4
+https://main.24playerhd.com/newplaylist/9268c1663c6fbf35ee492e77/9268c1663c6fbf35ee492e77.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP5
+https://main.24playerhd.com/newplaylist/63d90b6580c6629e89279906/63d90b6580c6629e89279906.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP6
+https://main.24playerhd.com/newplaylist/605bd6c26e5b99e58325afd6/605bd6c26e5b99e58325afd6.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP7
+https://main.24playerhd.com/newplaylist/e03b1e50d1478680f60b363f/e03b1e50d1478680f60b363f.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP8
+https://main.24playerhd.com/newplaylist/efc8b343a996306e039ddaad/efc8b343a996306e039ddaad.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%9B-Love-Stuck-2024-300x450.jpg",Love stuck 2024
+https://main.24playerhd.com/newplaylist/059c30ec5c7e5eef3ff44f98/059c30ec5c7e5eef3ff44f98.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2016/02/thumb_1045.jpg",Inside Out 1
+https://streamhls.com/view/4fff8267-5eaf-5105-9544-205c159e67b5.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/01/Perfect-Days-2023-%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%87%E0%B8%B2%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89-1-300x450.jpg",Perfect Day 10/10
+https://main.24playerhd.com/newplaylist/8e0d4c2cfd92dbff2c6f7610/8e0d4c2cfd92dbff2c6f7610.m3u8
+#EXTINF:-1 tvg-logo="https://sls-prod.api-onscene.com/partner_files/trueidintrend/343825/cover_image/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7%20645%20Lucky%20Lotto%20%28645%20%E0%B8%A5%E0%B8%B1%E0%B8%84%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B9%82%E0%B8%95%E0%B9%89%29.jpg",Lucky Lotto KR (sub)
+https://main.24playerhd.com/newplaylist/b2c568b7f6337f04ec9beb64/b2c568b7f6337f04ec9beb64.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Sit-Down-with-Stand-Up-Udom-Taephanich-2024.jpg.jpg",ซิทดาวน์ วิท สแตนด์อัพ อุดม แต้พานิด
+https://hlsp2p.com/view/91a0187d-da31-581e-93a3-188f3c3cd951.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/10/Fair-Play-2023.jpg",Fair Play (sub)
+https://main.24playerhd.com/newplaylist/26b40cdd6332e69f4e9b7af9/26b40cdd6332e69f4e9b7af9.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%9A%E2%80%A6%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%A2-300x450.jpg",No Hard Feeling (sub)
+https://master3.baraq.xyz/media/6520b6b9d2a08hSR/720/hls/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://subthai.tv/wp-content/uploads/2024/01/Society-of-the-Snow-2024.jpg", Society of snow (sub)
+https://master2.carlo-mt.xyz/PlayList/65975eeed3543vGe/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Concrete-Utopia-2023.jpg",Concrete utopia ซับไทย
+https://master1.glacis.xyz/PlayList/651a37397fd789C6/master.m3u8
+#EXTINF:-1 tvg-logo="https://lzd-img-global.slatic.net/g/p/f004f6024df296da373d0fe76c566c52.jpg_720x720q80.jpg", The Point Men 2023 TH
+https://master2.ataxbayle.xyz/media/640153df8fae6iqv/360/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/12/Maestro-2023.jpg", Maesto 2023 EN
+https://master1.glacis.xyz/PlayList/6582ba2f321b1qJw/master.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/01/LTNS-300x450.jpg",LTNS 2024 KrEP6
+https://d1k2us671qcoau.cloudfront.net/vodapi/viu_var_thaws.m3u8?vid=77436a81e84d09b887b33a152831a904&layer=Layer2&area_id=4&lang_id=4&duration=180&duration_start=0&ts=202402071647&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMWsydXM2NzFxY29hdS5jbG91ZGZyb250Lm5ldC92b2RhcGkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNzMxMzY1Mn19fV19&Signature=SQr0tPtix4EQ6Zq55hFLKPi8QHn47aUHu1j5Q6Q9Sd4r2pccW~tLdOlSGiSM0z-w~KIIeG666j9cnZKFPQ4rhThdJyn8JJizwDeJQN5y2ErMflhQ~E-VR60QQgmqzUSuUCE7U2aXCS43WhN4KN80rHJ8DnkNf31gApYNlto1fmOD-Cu4mu36KeI5tGZFynDNGWwzHdd3huWjNfPrAQWyJwqM4yBTHh1dtoCaviz7GLRI0mbeb5BCVzIbPgBT86v8UO4ksV6XdQEVtnVGowfTE00JMhmgN4FJGkthqEUIhxNUq~IolFUw23fdCGdu39Vs43WGB6QGL1WCIMXpqJoYlA__&Key-Pair-Id=APKAJ6Z4RF5IYK7Y3SQQ
+ 
+#EXTINF:-1 tvg-chno="25"  tvg-id="GMM 25" tvg-name="GMM 25" group-title="Digital TV" tvg-logo="https://i.imgur.com/sWGT1SD.png",GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="26"  tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="Digital TV" tvg-logo="https://i.imgur.com/9lsXfc0.png",BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
+ 
+#EXTINF:-1 tvg-chno="27"  tvg-id="CH8" tvg-name="CH8" group-title="Digital TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/02/Recalled-2021-%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99-300x450.png",Recalled KR(2023)
+https://xxx.77player.xyz/ioshls/46fb721974caae00696b9cd03743902c/46fb721974caae00696b9cd03743902c.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://seriesnung.com/wp-content/uploads/2022/05/lKGOqr7XyZRjeyeS5njARJZ9jeQ-204x300.jpg",TopGun Moverick
+https://cloudway.cloud/api/m3u8/6XzlsBGPmgsN0hQVrtUeeLBDvdTn8BLjJkAYGT46/default
+#EXTINF:-1 tvg-logo="https://tvallmovie.com/wp-content/uploads/2022/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-13-2022.jpg",เดี่ยว 13
+https://m2-txt-2.omgsteam.work/playlist2/detail/49db1c27x3/720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/10/Deaw13-Thai-Stand-Up-Comedy-2022-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-13.png",เดี่ยว 13
+https://main.77player.xyz/m3u8/697c3ec4888295f901ea7e8a/697c3ec4888295f901ea7e8a168.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/02/Obsessed-2014-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.png",Obsessed KR แรงรักมรณะ
+https://main.77player.xyz/m3u8/eb963f5cf4d4bdf5cf0c870b/eb963f5cf4d4bdf5cf0c870b168.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/You-Me-Me-2023-%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%89%E0%B8%B1%E0%B8%99-300x450.jpg",You & Me & Me (2023) เธอกับฉันกับฉัน
+https://hlsp2p.com/view/a06326bf-9165-5fd2-a494-986f632c2096.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91XjuzQI1eL._AC_SL1500_.jpg",Red Mungo 2008 สยอง
+https://streamhls.com/view/fae1a53d-a65b-51e4-80a6-d4487a23df3b.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/The-Recon-2021-%E0%B8%9B%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A3-300x450.png",The Recon (2021) ปมปริศนาเขตปลอดทหาร
+https://main.77player.xyz/newplaylist/d476c3c54dc49868e539fbeb/d476c3c54dc49868e539fbeb.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Midnight-2021-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87-300x450.png",Midnight 2021 KR
+https://main.77player.xyz/m3u8/e3199003b2075f835c177a88/e3199003b2075f835c177a88168.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Emergency_Declaration.jpg",Emergency Declaration (2022) ไฟลต์คลั่ง ฝ่านรกชีวะ TH
+https://xxx.77player.xyz/iosplaylist/2898acc4c8871b6d85f53fc0cb7e24e1/2898acc4c8871b6d85f53fc0cb7e24e1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Emergency_Declaration.jpg",Emergency Declaration (2022) ไฟลต์คลั่ง ฝ่านรกชีวะ KR
+https://xxx.77player.xyz/m3u8/5a77e87e61302f3d643887ce/5a77e87e61302f3d643887ce800.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Cassiopeia-2022-300x450.png",Cassiopeia (2022) KR
+https://xxx.77player.xyz/newplaylist/69640609d2c2f0fe258eb23d/69640609d2c2f0fe258eb23d.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Hunt-2022-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99-%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1%E0%B8%84%E0%B8%99-300x450.png",Hunt (2022) ล่าคน ปลอมคน KR
+https://main.77player.xyz/newplaylist/29955510b7948d1a2e6c37a6/29955510b7948d1a2e6c37a6.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tvallseries.com/wp-content/uploads/2021/03/43cnNK074uCj9pt4VGwI5oSP9gn-185x278.jpg",Love Destiny บุพเพสันนิวาส Season 1 ตอนที่ 5
+https://www.watchlakorn.in/egde/e4da3b7fbbce2345d7772b0674a318d5/MTM2MQ==/NQ==/ZGF0YTUvMDctMDMtMjAxOC9CdXBwaGVzYW5uaXdhdC03LU1hci0yMDE4Lm1wNA==/index-v1-a1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tvallseries.com/wp-content/uploads/2021/03/43cnNK074uCj9pt4VGwI5oSP9gn-185x278.jpg",Love Destiny บุพเพสันนิวาส Season 1 ตอนที่ 6
+https://www.watchlakorn.in/egde/1679091c5a880faf6fb5e6087eb1b2dc/MTM2MQ==/Ng==/ZGF0YTUvMDgtMDMtMjAxOC9CdXBwaGVzYW5uaXdhdDEtOC1NYXItMjAxOC5tcDQ=/index-v1-a1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tvallseries.com/wp-content/uploads/2021/03/43cnNK074uCj9pt4VGwI5oSP9gn-185x278.jpg",Love Destiny บุพเพสันนิวาส Season 1 ตอนที่ 7
+https://www.watchlakorn.in/egde/8f14e45fceea167a5a36dedd4bea2543/MTM2MQ==/Nw==/ZGF0YTYvMTQtMDMtMjAxOC9CdXBwaGVzYW5uaXdhdC0xNC1NYXItMjAxOC5tcDQ=/index-v1-a1.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-free.com/wp-content/uploads/2019/11/a10252dwvat.jpg",Case 39TH
+https://streamhls.com/view/74803451-6098-57d1-ac02-7a13f5b11818.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://nung2uhd.com/wp-content/uploads/2022/08/Broker-2022.jpeg",Broker (2022) จัดหารัก
+https://master2.ataxbayle.xyz/PlayList/630f2bdeadb28xJ8/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2023/03/Decision-to-Leave-2022-Poster.jpg",decision to leave KR movie
+https://sgcdnseriesn.xyz/view/ea33ab3e-fe74-566e-be0d-4a47e8fee741.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/09/Anatomy-of-Time-2022-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-300x450.png",Anatomy of time TH
+https://main.77player.xyz/m3u8/98100be79c5a36c246477c6a/98100be79c5a36c246477c6a168.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2021/04/Minari-2020-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B4.png",Minari Sub
+https://xxx.77player.xyz/ioshls/5c145d8dd1daed0c7d51abd1ec303f2e/5c145d8dd1daed0c7d51abd1ec303f2e.m3u8
+ 
+#EXTINF:-1,Conjuring The Beyond (2022)
+https://xxx.77player.xyz/ioshls/16efb64053776770fc584722583d3afb/16efb64053776770fc584722583d3afb.m3u8
+#EXTINF:-1,PK india
+https://antiddosleoplayer.com/x64m7ibg7gm9sdeied025k2h418thbjls0a/default/index.m3u8
+#EXTINF:-1,The gray man ล่องหนฆ่า Eng
+https://xxx.77player.xyz/m3u8/adbd982a384847bfc842e25c/adbd982a384847bfc842e25c800.m3u8
+#EXTINF:-1,The gray man ล่องหนฆ่า
+https://xxx.77player.xyz/m3u8/c77f436b207498dacb77423b/c77f436b207498dacb77423b800.m3u8
+#EXTINF:-1,The Spies เดอะสปาย สายลับภารกิจสังหาร KR
+https://xxx.77player.xyz/ioshls/200f1f8260036b090c5219410747b3ab/200f1f8260036b090c5219410747b3ab.m3u8
+#EXTINF:-1,King Richard sub
+https://xxx.77player.xyz/m3u8/b1d8a9623a767a74f38b0b18/b1d8a9623a767a74f38b0b18800.m3u8
+#EXTINF:-1,THE WITCH PART 1 THE SUBVERSION
+https://xxx.77player.xyz/autoplaylist/209cf61699bdcf5f6a7331fd56964fe1/209cf61699bdcf5f6a7331fd56964fe1.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNiZDc3NWUtNmQ5ZS00MTI0LWFjNGQtZGUwZDlmZmU0N2QyXkEyXkFqcGdeQXVyNTIxNTMxMjE@._V1_.jpg",The Witch Part 2 The Other One (2022) แม่มดมือสังหาร 2 KR
+https://main.77player.xyz/m3u8/04863751da666762b51aa9f8/04863751da666762b51aa9f8168.m3u8
+ 
+#EXTINF:-1,Time To hunt Kr
+https://xxx.77player.xyz/ioshls/8d8342621609eb0e053c8ee816d9ad7e/8d8342621609eb0e053c8ee816d9ad7e.m3u8
+#EXTINF:-1,Burning Kr
+https://xxx.77player.xyz/ioshls/13bce898ca4d9402cf08a2d0e11fca42/13bce898ca4d9402cf08a2d0e11fca42.m3u8
+#EXTINF:-1,Prey sub
+https://xxx.77player.xyz/m3u8/732db034805926444f539dda/732db034805926444f539dda800.m3u8
+#EXTINF:-1,carter th
+https://xxx.77player.xyz/m3u8/59c71299bfcb4498d6a950b4/59c71299bfcb4498d6a950b4800.m3u8
+#EXTINF:-1,Topgun th
+https://xxx.77player.xyz/ioshls/e61fa7dc94e6869117146d202aa147c9/e61fa7dc94e6869117146d202aa147c9.m3u8
+#EXTINF:-1,Till We meet again kr
+https://xxx.77player.xyz/iosplaylist/ba190774638999b5782de9a9bd046ab2/ba190774638999b5782de9a9bd046ab2.m3u8
+#EXTINF:-1,31 lives th
+https://xxx.77player.xyz/iosplaylist/beb4efacca2f8b26d8bde2d112ce711f/beb4efacca2f8b26d8bde2d112ce711f.m3u8
+#EXTINF:-1 tvg-logo="image":"https://overseer.blackboxsys.net/images/png/epl-1.png",EPL1
+https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="image":"https://overseer.blackboxsys.net/images/png/epl-1.png",EPL1
+https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd1
+#EXTINF:-1 tvg-logo="image":"https://overseer.blackboxsys.net/images/png/epl-1.png",EPL2
+https://www.andaman888th.com/football/?channel=truesporthd2&id=22
+#EXTINF:-1,Jurassic Park1
+https://xxx.77player.xyz/ioshls/b93be37d19ba97667cb48513f49fcd4e/b93be37d19ba97667cb48513f49fcd4e.m3u8
+#EXTINF:-1,assault of wall street
+https://xxx.77player.xyz/ioshls/8056b05c8996aab6f22e5aa1cc111f13/8056b05c8996aab6f22e5aa1cc111f13.m3u8
+#EXTINF:-1,Fall
+https://xxx.77player.xyz/m3u8/763d115262a8519aa83d37a2/763d115262a8519aa83d37a2800.m3u8
+#EXTINF:-1,Pinocchio (2022) พินอคคิโอ
+https://xxx.77player.xyz/m3u8/255d88e9385cb9b79e800124/255d88e9385cb9b79e800124800.m3u8
+ 
+#EXTINF:-1,PREMIER 1 M3U8
+http://w.nasvpn.xyz:8080/live/best/best/16395.m3u8
+#EXTINF:-1,PREMIER 1 PLAY ID
+https://raw.githubusercontent.com/Playidturl1/playlist/main/sportch/tpf1b.m3u8
+ 
+#EXTINF:-1,PREMIER 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115759
+#EXTINF:-1,PREMIER 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115760
+ 
+ 
+#EXTINF:-1,PREMIER 2
+https://cdn.googlecdnforstreaming.live/dbf789/epl2/chunks.m3u8
+#EXTINF:-1,PREMIER 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115509
+#EXTINF:-1,PREMIER 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115518
+ 
+#EXTINF:-1,PREMIER 3
+https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8 
+#EXTINF:-1,PREMIER 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115512
+#EXTINF:-1,PREMIER 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115520
+ 
+#EXTINF:-1,PREMIER 4
+https://cdn.googlecdnforstreaming.live/dbf789/epl4/chunks.m3u8
+#EXTINF:-1,PREMIER 4
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115513
+#EXTINF:-1,PREMIER 4
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115522
+ 
+#EXTINF:-1,PREMIER 5
+https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
+#EXTINF:-1,PREMIER 5
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115515
+#EXTINF:-1,PREMIER 5
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115525
+ 
+#EXTINF:-1  ,BEIN 1
+https://cdn.googlecdnforstreaming.live/dbf789/bein1/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football" ,BEIN 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115807
+ 
+#EXTINF:-1,BEIN 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115809
+#EXTINF:-1,BEIN 2
+https://cdn.googlecdnforstreaming.live/dbf789/bein2/chunks.m3u8
+ 
+#EXTINF:-1,BEIN 3
+https://cdn.googlecdnforstreaming.live/dbf789/bein3/chunks.m3u8
+#EXTINF:-1,BEIN 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115601
+ 
+#EXTINF:-1,SPOTV 1
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/spotv1/playlist.m3u8
+#EXTINF:-1,SPOTV 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115682
+#EXTINF:-1,SPOTV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+ 
+#EXTINF:-1,SPOTV 2
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/spotv2/playlist.m3u8
+#EXTINF:-1,SPOTV 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115433
+#EXTINF:-1,SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8 
+ 
+ 
+#EXTINF:-1,Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,FusoMOV 1
+http://203.159.95.172:8081/live/action001/playlist.m3u8
+#EXTINF:-1,FusoMOV 2
+http://203.159.95.172:8081/live/banner003/playlist.m3u8                          
+#EXTINF:-1,Sun Movie
+http://61.19.242.134/feed/202105171329/LC1/index.m3u8
+#EXTINF:-1,Samurai
+http://61.19.242.134/feed/202105171329/LC2/index.m3u8
+#EXTINF:-1,Box Flim
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
+#EXTINF:-1,JKN
+http://61.19.242.134/feed/202105171329/LC24/index.m3u8
+#EXTINF:-1,SANOOK 
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1,FwToon
+https://tvonlineappitv.shortcm.li/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,AND TV online
+https://live.thaitvstream.com/play/andtv/index.m3u8
+#EXTINF:-1,Zeenung
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/26
+#EXTINF:-1,Channel8 Thailand 
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,Warner TV
+http://61.19.242.134/feed/202105171329/LC28/index.m3u8
+#EXTINF:-1,Thrill
+http://61.19.242.134/feed/202105171329/LC26/index..m3u8
+#EXTINF:-1,comedy1
+http://203.159.95.172:8081/live/comedy1/playlist.m3u8
+#EXTINF:-1,จอมยุทธ์
+https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunks.m3u8
+#EXTINF:-1,Cool Channel
+https://moviektu.com/Cool/playlist.m3u8
+#EXTINF:-1,CTB 
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,Sun Movie
+http://61.19.242.134/feed/202105171329/LC1/index.m3u8
+#EXTINF:-1,Samurai
+http://61.19.242.134/feed/202105171329/LC2/index.m3u8
+#EXTINF:-1,Movies World 1
+http://61.19.242.134/feed/202105171329/LC11/index.m3u8
+#EXTINF:-1,Snook
+http://61.19.242.134/feed/202105171329/LC53/index.m3u8
+#EXTINF:-1,ZeeNung
+http://61.19.242.134/feed/202105171329/LC5/index.m3u8
+#EXTINF:-1,Box Film
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
+#EXTINF:-1,Warner TV
+http://61.19.242.134/feed/202105171329/LC28/index.m3u8
+#EXTINF:-1,Thrill
+http://61.19.242.134/feed/202105171329/LC26/index.m3u8
+#EXTINF:-1,SurutTv
+https://live1.thaitvstream.com/play/srtvonline/index.m3u8
+#EXTINF:-1,AETV
+https://live1.thaitvstream.com/play/aetv/index.m3u8
+#EXTINF:-1,SiamTV
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1,GOLIVE
+https://live1.thaitvstream.com/play/gochannel/index.m3u8
+ 
+ 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/4850.jpg",The Adventures of Tintin (2011)
+https://vs01.kkembed.com/files/mp4/W/WgvWs.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/4697.jpg",Yogi Bear (2010)
+https://vs01.kkembed.com/files/mp4/c/c9ET8.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4214.jpg",The Angry Birds Movie (2016) 
+https://vs01.kkembed.com/files/mp4/w/wsrxr.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/12/8321.jpg",The Angry Birds Movie 2 (2019) 
+https://vs01.kkembed.com/files/mp4/x/xX33a.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4166.jpg",Cloudy with a Chance of Meatballs (2009)
+https://vs01.kkembed.com/files/mp4/c/cHa16.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4167.jpg",Cloudy with a Chance of Meatballs 2 (2012)
+https://vs01.kkembed.com/files/mp4/i/ikHfP.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/02/3735.jpg",Rango (2011)
+https://vs01.kkembed.com/files/mp4/H/HSvXY.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3104.jpg",Up (2009)hengku
+https://vs01.kkembed.com/files/mp4/Q/QJyk7.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3104.jpg",Up (2009)govmovie
+https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%9B%E0%B8%B9%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87-up-2009-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/1828
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3104.jpg",Up (2009) HD
+https://proxy1-cdn2.cdn9x.com/v73b0ekv/360p.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/754.jpg",Bee Movie (2007) 
+https://vs01.kkembed.com/files/mp4/w/wJjxT.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/754.jpg",Bee Movie (2007) HD
+https://www.xn--72czp5emaz0ab6b.com/player/m/10964/Bee-Movie-%282007%29-%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81/442609.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/698.jpg",A Bug’s Life (1998)
+https://vs01.kkembed.com/files/mp4/Q/QUfs7.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/09/231.jpg",Puss in Boots (2011) HD 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/9111/Puss-in-Boots-%282011%29-%E0%B8%9E%E0%B8%B8%E0%B8%8B-%E0%B8%AD%E0%B8%B4%E0%B8%99-%E0%B8%9A%E0%B8%B9%E0%B9%8A%E0%B8%97%E0%B8%AA%E0%B9%8C/419188.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/09/231.jpg",Puss in Boots (2011)
+https://hlsplay-7.gethlsplay.xyz/hls/8hebmcw/file_720.mp4/chunk.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/09/89.jpg",Horton Hears a Who!(2008) HD
+https://www.xn--72czp5emaz0ab6b.com/player/m/7743/Horton-Hears-a-Who!-%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%99-%E0%B8%81%E0%B8%B1%E0%B8%9A-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C-%282008%29/417375.html
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2022/01/12223.jpg",Home on the Range (2004)
+https://vs01.kkembed.com/files/mp4/g/g6kku.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2022/01/12090.jpg",Snoopy Presents For Auld Lang Syne (2021)
+https://vs01.kkembed.com/files/mp4/b/bTuWT.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2022/01/12053.jpg",Diary of a Wimpy Kid (2021)
+https://vs01.kkembed.com/files/mp4/I/I4IQd.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5949.jpg",The Boss Baby (2017)
+https://vs01.kkembed.com/files/mp4/7/7eDpL.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2022/01/11847.jpg",The Boss Baby Family Business (2021)
+https://vs01.kkembed.com/files/mp4/i/icrAp.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/9173.jpg",Cats and Peachtopia (2018)
+https://vs01.kkembed.com/files/mp4/1/101q1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5842.jpg",The Flintstones & WWE: Stone Age Smackdown (2015)
+https://vs01.kkembed.com/files/mp4/P/Pxzhm.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/12/11193.jpg",A Goofy Movie (1995)
+https://vs01.kkembed.com/files/mp4/7/7U871.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/11/10675.jpg",Marnie s World (Spy Cat) (2018) 
+https://vs01.kkembed.com/files/mp4/5/53zBI.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/11/10602.jpg"Stand by Me Doraemon 2 (2020) 
+https://vs01.kkembed.com/files/mp4/a/aBxRI.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/7166.jpg",ครุฑ มหายุทธ หิมพานต์ (2018) 
+https://vs01.kkembed.com/files/mp4/v/vUQnC.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3238.jpg",คุณทองแดง (2015)
+https://vs01.kkembed.com/files/mp4/9/9gGUj.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/8909.jpg",ก้านกล้วย 1 (2006)
+https://vs01.kkembed.com/files/mp4/P/Pvr0m.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/8910.jpg",ก้านกล้วย 2 (2006)
+https://vs01.kkembed.com/files/mp4/e/ePtye.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/1294.jpg",ยักษ์ (2012) HD
+https://www.xn--72czp5emaz0ab6b.com/player/m/10626/%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C/398465.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/1294.jpg",ยักษ์ (2012) 
+https://vs01.kkembed.com/files/mp4/Q/QTYqo.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5718.jpg",เอคโค่ จิ๋วก้องโลก(2012) 
+https://vs01.kkembed.com/files/mp4/3/3sA7M.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/07/6867.jpg",9 ศาสตรา (2018)
+https://vs01.kkembed.com/files/mp4/n/n4GfC.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/11/10041.jpg",The Croods (2013)
+https://vs01.kkembed.com/files/mp4/R/RcF2l.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/9325.jpg",UglyDolls (2019)
+https://vs01.kkembed.com/files/mp4/H/HMChY.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/2772.jpg",Ice Age 1 (2002)
+https://vs01.kkembed.com/files/mp4/Q/QEQcO.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/2773.jpg",Ice Age 2 (2006)
+https://vs01.kkembed.com/files/mp4/z/zT1FR.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/2774.jpg",Ice Age 3 (2009)
+https://vs01.kkembed.com/files/mp4/A/AixGM.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/2775.jpg",Ice Age 4 (2012)
+https://vs01.kkembed.com/files/mp4/s/s78dh.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/4766.jpg",Ice Age 5 (2016)
+https://vs01.kkembed.com/files/mp4/H/H4vMo.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2022/01/12300.jpg",The Ice Age Adventures of Buck Wild (2022)
+https://vs01.kkembed.com/files/mp4/T/TjwO7.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/9380.jpg",Animal Crackers (2017)
+https://vs01.kkembed.com/files/mp4/N/NSrR9.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/5458.jpg",Khumba (2013) 
+https://vs01.kkembed.com/files/mp4/s/sM9mT.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/8156.jpg",Winnie the Pooh: A Very Merry Pooh Year (2002)
+https://vs01.kkembed.com/files/mp4/o/oIO0l.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/07/6799.jpg",Winnie the Pooh (2011)
+https://vs01.kkembed.com/files/mp4/R/Rpbxh.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5270.gif",The Many Adventures of Winnie the Pooh (1977)
+https://vs01.kkembed.com/files/mp4/J/J2A2e.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5959.jpg",Cars 1 (2006) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/10382/CARS-%282006%29-4-%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-/513694.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5959.jpg",Cars 1 (2006) 720
+https://hlsplay-4.gethlsplay.xyz/hls/k3fgukk/file_720.mp4/chunk.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5960.jpg",Cars 2 (2011) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/10383/CARS-2-%282011%29-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-%E0%B8%A0%E0%B8%B2%E0%B8%84-2/401769.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5960.jpg",Cars 2 (2011) 720
+https://vs01.kkembed.com/files/mp4/W/WLUvv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/6083.jpg",Cars 3 (2017) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/10384/CARS-3-%282017%29-%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C-/484182.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/6083.jpg",Cars 3 (2017) 720
+https://hlsplay-3a.gethlsplay.xyz/hls/ytlymk3/file_720.mp4/chunk.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51gn7gD4W1L._AC_SX342_.jpg",Despicable me (2010) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/7827/Despicable-Me-%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94-%282010%29/398143.html
+ 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51gn7gD4W1L._AC_SX342_.jpg",Despicable me
+https://player.streamhee.com/static/players/player_2358.m3u8
+#EXTINF:-1 tvg-logo="https://www.ดูหนังอิอิ.com/uploads/cache/poster_thumb_web/uploads/jpg/4aae6e77c1d7a93e8bf77efca697bd8f.jpg",Despicable me 2 (2013) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/7986/Despicable-Me-2-%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94-2-%282013%29/394387.html
+#EXTINF:-1 tvg-logo="https://www.ดูหนังอิอิ.com/uploads/cache/poster_thumb_web/uploads/jpg/b3b5c6a0c603ecf48b06540725d78743.jpg",Despicable me 3 (2017) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/9621/Despicable-Me-3-%282017%29-%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94-3/486123.html
+ 
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-1_cover.jpg",Toy Story 1 (1995) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/12853/Toy-Story-1-%281995%29-%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/385132.html
+ 
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-1_cover.jpg",Toy Story 1 (1995) 
+https://player.streamhee.com/static/players/player_2362.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-2_cover.jpg",Toy Story 2 (1999) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/12854/Toy-Story-2-%281999%29-%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-2/392497.html
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-2_cover.jpg",Toy Story 2 (1999) 
+https://player.streamhee.com/static/players/player_2385.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-3_cover.jpg",Toy Story 3 (2010) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/12855/Toy-Story-3-%282010%29-%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-3/413895.html 
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-3_cover.jpg",Toy Story 3 (2010)
+https://hlsplay-2-1.gethlsplay.xyz/hls/gpwz3yw/file_720.mp4/chunk.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1561352100_toy-story-4_cover.jpg",Toy Story 4 (2019) 
+https://hlsplay-1.gethlsplay.xyz/hls/omvq4jd/file_720.mp4/chunk.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2022/01/9U5s3Yj00upChbeHwHlz9FBMfcv-185x278.jpg",Toy Story That Time Forgot (2014) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/9461/Toy-Story-That-Time-Forgot----%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%89/550518.html
+ 
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2022/01/9U5s3Yj00upChbeHwHlz9FBMfcv-185x278.jpg",Toy Story That Time Forgot (2014) 
+https://hlsplay-2-1.gethlsplay.xyz/hls/fsk21z1/file_720.mp4/chunk.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4399.jpg",Madagascar (2005) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/14129/Madagascar-%282005%29-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C/1229000.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4399.jpg",Madagascar (2005)
+https://player.streamhee.com/static/players/player_2379.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4398.jpg",Madagascar 2 Escape Africa (2008) 1080P
+https://www.xn--72czp5emaz0ab6b.com/movie/14147/Madagascar-%282008%29-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-2-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%AD%E0%B8%9F%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4398.jpg",Madagascar 2 Escape Africa (2008)
+https://player.streamhee.com/static/players/player_2364.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4397.jpg",Madagascar 3: Europe’s Most Wanted (2012) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/14147/Madagascar-%282008%29-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-2-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%AD%E0%B8%9F%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2/1228244.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4397.jpg",Madagascar 3: Europe’s Most Wanted (2012)
+https://vs01.kkembed.com/files/mp4/g/gyGR2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3065.jpg",Open Season 1 (2006)
+https://player.streamhee.com/static/players/player_2375.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/02/3064.jpg",Open Season 2 (2008)
+https://player.streamhee.com/static/players/player_2365.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/3063.jpg",Open Season 3 (2010) 
+https://vs01.kkembed.com/files/mp4/v/vwMRl.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3079.jpg",Open Season: Scared Silly (2015) 
+https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-open-season-scared-silly-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C-%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94-2015-full-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/4859
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91KE271NPEL._SY550_.jpg",Thinker Bell
+https://player.streamhee.com/static/players/player_2367.m3u8
+#EXTINF:-1 tvg-logo="https://cdni-cf.ch7.com/dm/sz-sm/i/mg/f/e/a/fea90a7781c0074f22913cf548528e5c_77wall-e-new.jpg",Wall.E
+https://player.streamhee.com/static/players/player_2368.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/7991.jpg",Meet The robinson
+https://player.streamhee.com/static/players/player_2369.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5614.jpg",Ratatouille (2007)
+https://player.streamhee.com/static/players/player_2370.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cf.shopee.co.th/file/945cb4b27d8aab57783b6d0372c112e0",Pocahontas
+https://player.streamhee.com/static/players/player_2361.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5380.jpg",Tom And Jerry The Fast And The Furry (2005)
+https://vs01.kkembed.com/files/mp4/7/7scBk.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Tom_and_Jerry_A_Nutcracker_Tale_cover.jpg",Tom & Jerry A Nutcracker Tale
+https://player.streamhee.com/static/players/player_2373.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/11/10747.jpg",Tom and Jerry’s Giant Adventure (2013) 
+https://vs01.kkembed.com/files/mp4/9/9AxHt.m3u8
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2021/12/fF6I48WGKktHfGYYSVKPTVildWE-150x150.jpg",Tom and Jerry The Magic Ring (2002) 
+https://hlsplay-3a.gethlsplay.xyz/hls/xfv2pkj/file_360.mp4/chunk.m3u8
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2021/12/s2Tegfa5IOUkFx988FgTFZth189-150x150.jpg",Tom and Jerry The Lost Dragon (2014) 
+https://hlsplay-3a.gethlsplay.xyz/hls/zwgw0xp/file_720.mp4/chunk.m3u8
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2021/03/w7CwyAwwCd24gp1mAcReorzq1Xn-150x150.jpg",Tom and Jerry (2021) 
+https://hlsplay-3a.gethlsplay.xyz/hls/sxxgtjd/file_720.mp4/chunk.m3u8
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2020/08/vsQBkkMDsquRGW4SSoD2VZ8uW73-185x278.jpg",Tom and Jerry: Robin Hood (2012) 
+https://hlsplay-4.gethlsplay.xyz/hls/h31uhbw/file_720.mp4/chunk.m3u8?nimblesessionid=628456
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2019/11/lRXpOazybgbCff6xZjCPbRP685p-185x278.jpg",Monster House
+https://player.streamhee.com/static/players/player_2374.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.ดูหนังอิอิ.com/uploads/cache/poster_thumb_web/uploads/jpg/582bda09187048ded6f2600b98b81c52.jpg",Antz HD (1998)
+https://www.xn--72czp5emaz0ab6b.com/player/m/1712/Antz-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%83%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%A1%E0%B8%94-%281998%29/444482.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3003.jpg",The Ant bully
+https://player.streamhee.com/static/players/player_2377.m3u8
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_thewild_19901_b1ed784d.jpeg",The wild
+https://player.streamhee.com/static/players/player_2378.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3342.jpg",Robots (2005)
+https://player.streamhee.com/static/players/player_2380.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/07/6568.jpg",The Incredibles (2004)
+https://player.streamhee.com/static/players/player_2382.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/11/2013.jpg",The Polar Express (2004) 
+https://player.streamhee.com/static/players/player_2383.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/2902.jpg",Tarzan (1999) 
+https://player.streamhee.com/static/players/player_2384.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/2914.jpg",Tarzan II (2005) 
+https://vs01.kkembed.com/files/mp4/P/PmFPp.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/2902.jpg",Tarzan (2013) 
+https://vs01.kkembed.com/files/mp4/y/yBgoc.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/4961.jpg",Monster inc.
+https://player.streamhee.com/static/players/player_2386.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/1125.jpg",shrek
+https://player.streamhee.com/static/players/player_2371.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a9/64/a9/a964a9051d164eff1391205a50609abf.png",shrek
+https://player.streamhee.com/static/players/player_2381.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a9/64/a9/a964a9051d164eff1391205a50609abf.png",shrek
+https://player.streamhee.com/static/players/player_2387.m3u8
+#EXTINF:-1 tvg-logo="https://cf.shopee.co.th/file/de7177bdecbba4c3797cefae743fe10c",The Simson
+https://player.streamhee.com/static/players/player_2372.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/136x/f1g01weu/kung-fu-panda-german-movie-poster-sm.jpg",Kunfu Panda
+https://player.streamhee.com/static/players/player_2363.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png",Cartoon 19
+https://player.streamhee.com/static/players/player_2376.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png",Cartoon 9
+https://player.streamhee.com/static/players/player_2366.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WT8x7KwHQA0GGd7enghfWa1DCIoRIwRTnw&usqp=CAU group-title="movie" , Doraemon The Movie (1980) ไดโนเสาร์ของโนบิตะ
+https://slave01.players2u.com/hls3/89f088264928a0d0dfe04b865e8255a5/89f088264928a0d0dfe04b865e8255a5.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo429Gw3Th21AcZlB85rdQJbwsarn9w29O4w&usqp=CAU group-title="movie​" ,Doraemon The Movie (1981) โนบิตะนักบุกเบิกอวกาศ
+https://slave02.players2u.com/hls/2eded547f6d3f5b27fcc308298e192e6/2eded547f6d3f5b27fcc308298e192e6.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpdSIeXXTmBb2b8oI5Fk7LbWh6C4BiOJZMA&usqp=CAU group-title="movie​" ,Doraemon The Movie (1982) บุกแดนมหัศจรรย์
+https://slave02.players2u.com/hls6/885227d4ce44a30d255c699b7d5ae109/885227d4ce44a30d255c699b7d5ae109.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVafa9dxY7FceRT7Yb8rnpWqmymrKsId-OHw&usqp=CAU group-title="movie​" ,DORAEMON THE MOVIE (1983) ตะลุยปราสาทใต้สมุทร
+http://149.56.18.18/901001-902000/901107.mp4
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-2j4mCpBSg5pxg5Ew_TTi1PJoUvewppAwA&usqp=CAU group-title="movie​" ,Doraemon The Movie (1984) โนบิตะท่องแดนเวทมนต์
+https://slave02.players2u.com/hls2/6a11fae6446fca9f8686339a683fcbc3/6a11fae6446fca9f8686339a683fcbc3.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgmqMFWzcsM7Axgtd3UgZjpaspA8Gq5aUKKg&usqp=CAU group-title="movie​" ,Doraemon The Movie 6 (1985) โดเรม่อนเดอะมูฟวี่ สงครามอวกาศ
+https://movie2o.com/hls/7e1d016794ce33142a0edc311ab5f07a/7e1d016794ce33142a0edc311ab5f07a.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxKP2aVTRjOyF5ncBdCldXq3xZ3kkF0xrHw&usqp=CAU group-title="movie​" ,Doraemon The Movie (1986) สงครามหุ่นเหล็ก
+https://movie2o.com/hls/e03468e20c74e4b254ed3c0e8a3f5bcf/e03468e20c74e4b254ed3c0e8a3f5bcf.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsXYQKL_W1b8QjQsNody2AJ2zju9kmVHgtg&usqp=CAU group-title="movie​" ,Doraemon The Movie (1987) บุกแดนใต้พิภพ
+https://slave01.players2u.com/hls3/91708174ae58df3c9f8628719f226a07/91708174ae58df3c9f8628719f226a07.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0fC8Beu25LjiA1fnQFM0Y-spQhx9THsgNw&usqp=CAU group-title="movie​" ,Doraemon The Movie (1988) ท่องแดนเทพนิยายไซอิ๋ว
+https://slave01.players2u.com/hls6/872dec9d719193683d37cd2c19da2b11/872dec9d719193683d37cd2c19da2b11.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgo9bCIRRkRwOo3RkCON8ruKoEob2j1_kIFA&usqp=CAU group-title="movie​" ,Doraemon The Movie (1989) ท่องแดนญี่ปุ่นโบราณ
+https://slave02.players2u.com/hls/ff5a8b3dfbb7a70d4985109ba6eaa974/ff5a8b3dfbb7a70d4985109ba6eaa974.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_s6QpvBUQJOQzD85O4UEnhNRBkM2TAmFkw&usqp=CAU group-title="movie" ,Doraemon The Movie (1990)​ ตะลุยดาวต่างมิติ
+https://files.akuma-player.xyz/view/5411c2f3-acbf-5d0c-9753-c1ace34f4832.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVqDp5u4As9kDtd56CjOoYqGkgv7ggsvPNw&usqp=CAU group-title="movie​" ,Doraemon The Movie (1991) โนบิตะท่องอาหรับราตรี
+https://files.akuma-player.xyz/view/bb4c01f5-1131-56b7-9b52-a3dead2e2dbf.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKYqcOQgghq6HR5XCodQTvyDO7w0dC71Zig&usqp=CAU group-title="movie​" ,DORAEMON THE MOVIE (1992) บุกอาณาจักรเมฆ
+https://p2phls.xyz/6gt3mbmrs23f7k366zo14q4dsxj49r5g2mh/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3lHuPpySATNlzNHSK9awj-IepA4936xJcQ&usqp=CAU group-title="movie​" ,Doraemon The Movie (1993) ฝ่าแดนเขาวงกต
+https://files.akuma-player.xyz/view/fafb86a4-ac71-5e52-aaa9-e536933aa9e8.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0nU6ev_ql97VsnkgSvq2_2TMG8fOVVOOhg&usqp=CAU group-title="movie​" ,Doraemon The Movie (1994) สามอัศวินในจินตนาการ
+https://p2phls.xyz/t34aob08isr55dcqk6p31au1ibncsmnxy4a/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PaGJx-3ewppZi_7leR04WH--fM8MBxygpg&usqp=CAU group-title="movie​" ,Doraemon The Movie (1995) ตำนานการสร้างโลก
+https://movie2o.com/hls/c91788a14f25f30e31b3fcb6728c3aa6/c91788a14f25f30e31b3fcb6728c3aa6.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XzMgJV8JK8V4uWrdjccpC9YCSs-4LKBafQ&usqp=CAU group-title="movie​" ,Doraemon The Movie (1996) ผจญภัยสายกาแล็คซี่
+https://files.akuma-player.xyz/view/48703bb7-1233-5b68-bca3-baf882466ade.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0AgDdn_FOHDg5jVZ8iekMQChvB_YUIYRmA&usqp=CAU group-title="movie​" ,DORAEMON THE MOVIE (1997) ผจญภัยเมืองในฝัน
+http://149.56.18.18/901001-902000/901110.mp4
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRICszoWPZi04Vu68q9W6pvNNP58MoJ6ZDSiA&usqp=CAU group-title="movie​" ,Doraemon The Movie (1998) ผจญภัยเกาะมหาสมบัติ
+https://vs01.kkembed.com/files/mp4/P/P3Wl0.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2_NtTjuZfuE0RoCFoYNJvnZ9HGzWIIhieQ&usqp=CAU group-title="movie​" ,Doraemon The Movie (1999) ตะลุยอวกาศ
+https://antiddosleoplayer.com/uv3wabdaqg6fdriot7muux2kwfqpybsgf2h/default/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqViCeY5NBpomSM2Uz0yF6eUGT2spCJWWhQ&usqp=CAU group-title="movie​" ,Doraemon The Movie (2000) ตำนานสุริยกษัตริย์
+https://p2phls.xyz/q0s8b6gfbwg5go1g2f7h27t81kzwgxyjsxd/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GOxiaCJdK_by8CWZ_3ANH0ynQ95MPvI7qg&usqp=CAU group-title="movie​" ,Doraemon The Movie (2001) โนบิตะและอัศวินแดนวิหค
+https://p2phls.xyz/0r0fkysvmgq2p22w855nm08cp51qtnk2s9i/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPRuqGn3tXg84DzeYB-epO_fXvLiOQj6QHw&usqp=CAU group-title="movie​" ,Doraemon The Movie (2002) โนบิตะตะลุยอาณาจักรหุ่นยนต์
+https://master.server-cdn-streaming.com/api/uploads/movie/1555/video/1706/hls/movie.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXpKGnJ53nzvis1IUkCVK1KT81lbQTsaNXw&usqp=CAU group-title="movie​" ,Doraemon The Movie (2003) โนบิตะผจญภัยดินแดนแห่งสายลม
+https://ds.nungdd4free.com/videos/202105/30/60b1ac0b5bcb0133dcda9315/ffea6d/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxcrB7A8wNWmHP_Vbo0tRKs1OEi7v2jKpo5w&usqp=CAU group-title="movie​" ,Doraemon The Movie (2004) โดราเอมอน ตอน โนบิตะท่องอาณาจักรโฮ่งเหมียว
+https://p2phls.xyz/wqio3l7s9y2e9hfqocrqlvmwwer0he74yti/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3TZWXsBd_lNWnng_sKPLCpQX08za3VBMLQ&usqp=CAU group-title="movie
+",Doraemon The Movie (2006)ไดโนเสาร์ของโนบิตะ
+https://p2phls.xyz/8ntqf1yjd4to1ebcbqszrmi4vyzaynisf39/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSllUSijs4FOH_birSuLvPBm1eikvECNfBv1A&usqp=CAU group-title="movie​" ,Doraemon The Movie (2007) โนบิตะตะลุยแดนปีศาจ 7 ผู้วิเศษ
+https://p2phls.xyz/4gw44p6agy0iysy49gkmkedn5kyz4djpqap/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzNoxhXnBrfhPpOwTDQcU1U-pE25fgzkrng&usqp=CAU group-title="movie​" ,Doraemon The Movie (2008) โนบิตะกับตำนานยักษ์พฤกษา
+https://p2phls.xyz/f0j9q3r0nyeqpz0aa49zoqdkru72os8y0tn/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg5_SUpqmUOOhsCaa5NKfS5zvxHqP621Yk6w&usqp=CAU group-title="movie​" ,Doraemon The Movie (2009) โนบิตะนักบุกเบิกอวกาศ
+https://antiddosleoplayer.com/z6cb034rcsmrpnwtdxhujvlpteh47inzz6s/default/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWHmUuuAkKuOKBU23OGFYb4_4dDf6Nv6mMA&usqp=CAU group-title="movie​" ,DORAEMON THE MOVIE (2010) สงครามเงือกใต้สมุทร
+http://149.56.18.18/901001-902000/901140.mp4
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_oRvOsxwwgw99Xd0rL_KsvsRLbBBVZaz-g&usqp=CAU group-title="movie​" ,Doraemon The Movie (2011) โนบิตะผจญกองทัพมนุษย์เหล็ก
+http://149.56.18.18/901001-902000/901142.mp4
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_F2LH9vUDfDCS0X6WBb9qcMJm3hjjs7qoEw&usqp=CAU group-title="movie​
+" ,Doraemon The Movie (2012) โนบิตะผจญภัยในเกาะมหัศจรรย์
+http://149.56.18.18/901001-902000/901138.mp4
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ0Otws-zTKf2LfGp6Dei6rDPov5okz-yGuw&usqp=CAU group-title="movie​" ,Doraemon The Movie (2013) โนบิตะล่าโจรปริศนาในพิพิธภัณฑ์ของวิเศษ
+https://movie2o.com/hls/04797cc05a8fa26970c81e1eb63282e0/04797cc05a8fa26970c81e1eb63282e0.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LiQMRtfdoi2TzhR8z4uSxJK-8WswcKQo7Q&usqp=CAU group-title="movie​" ,Doraemon The Movie (2014) โนบิตะ บุกดินแดนมหัศจรรย์ เปโกะกับห้าสหายนักสำรวจ
+https://p2phls.xyz/rojjratadpzilklyplueqqqsuu2igeqtniz/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxLUTBPQd9gONIxpKmeR0bxFdlYjvUQPqd3g&usqp=CAU group-title="movie​" ,Doraemon The Movie (2015) โนบิตะผู้กล้าแห่งอวกาศ
+https://slave03.players2u.com/hls1/75cc35191d19b310b5e3ddfab9e1397b/75cc35191d19b310b5e3ddfab9e1397b.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsL7XHGyLuVegmU9uJ8NDcZ0QBtbm2qqejVw&usqp=CAU group-title="movie​" ,Doraemon The Movie (2017) โดราเอมอน ตอน โนบิตะกำเนิดประเทศญี่ปุ่น
+https://slave01.players2u.com/hls/e96900dcda88e441fb8b3ac9253d485e/e96900dcda88e441fb8b3ac9253d485e.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0UBji1O41Ofa6QaoBom45A1zlLnoW5DAog&usqp=CAU group-title="movie​" ,Doraemon the Movie (2017) Great Adventure in the Antarctic Kachi Kochi โดราเอมอน ตอน คาชิ-โคชิ การผจญภัยขั้วโลกใต้ของโนบิตะ
+https://p2phls.xyz/c9d3qhjry3hz7t47gincsy9azdexlqwz8h1/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEPvKQHbYlclFthp_l4_KtreoawLFUyf3RA&usqp=CAU group-title="movie​
+" ,Doraemon The Movie (2019) โดราเอมอน ตอน เกาะมหาสมบัติของโนบิตะ
+https://p2phls.xyz/9nc1grzczkeggk5tnhwz6m5l55h2bpk6klu/720/index.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl56TmMpEHFh5oc8z6en9K-zcQN6TKFjrL9g&usqp=CAU group-title="movie​" ,Doraemon The Movie (2019) โดราเอม่อนเดอะมูฟวี่ โนบิตะสำรวจดินแดนจันทรา
+https://p2phls.xyz/muirf7mqrjb3chaqyflw4wo88v9bzkfg6ze/720/index.m3u8
+ 
+ 
+RAW Paste Data
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/130_y_9Jka0VhdxwSbtiYqBNXEm5scD2HjzfM8.png",One31
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_one/hd_one.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/131_y_3DPNEFWTadeZ6Jsl9AI10RXbcCkwj7ym.png",ThairatTV
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_thairath/hd_thairath.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/133_y_BPJVyimD7beLf4AErFkTjG6ISC0hxWtz.png",AmarinTV
+https://lb-mvtv-live.v2h-cdn.com/redirect/hd_amarin/hdamarin.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/128_y_cVJ9st4Ddv8m5PhaQMlgyB7HFUALYiZr.png",Mono29
+https://lb-mvtv-live.v2h-cdn.com/redirect/mono/mono.stream?type=m3u8
+#EXTINF:-1 tvg-logo="https://img-ha.mthcdn.com/PMLaDCYt-RHSFWZr_xlhCRnIZYc=/mthai.com/app/uploads/2020/07/tv-3hd.png",3HD_5
+https://cdn726.stm.trueid.net/p101aes/c03_multi_w_auto_tidapp.smil/chunklist_w737889289_b2000000_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=a8be431f31&did=Nk5YUThBWGxlbUEzMVZVNzhjSlFMVzBCaFh4NGV5WUg&mpass=VQfY0keg-j6XeBXh-sH6DSgIOG2Kbn-7F7oMHVgfhGe9dyb6dCC4baNAYF2T-bc4LMxoCXF0IUVTW8cu8Zd-7oGKpEdEg2kSnQMTY_TXIXQPUo4qU1UtNQ0YgotaRwNWICDEZveEyI2cEAMGyF4csjXe&sid=d06efc0d96&rt=1701697428&ds=86400&tk=kzQy7DP7JYerXyNvBmBsf2gLH9JrVhdXrnhua-7z-no
+#EXTINF:-1 tvg-logo="https://img-ha.mthcdn.com/PMLaDCYt-RHSFWZr_xlhCRnIZYc=/mthai.com/app/uploads/2020/07/tv-3hd.png",3HD_ุุ6
+https://freelive2.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8?nimblesessionid=11424196&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMyAyOjQ5OjAzIFBNJmhhc2hfdmFsdWU9VXlKbTJYQ2ZEN0dYYTN4Y1RCNnp6QT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1,MONO 29
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+#EXTINF:-1,MONO 29
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/chunklist_w518596907.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",Bein3
+https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/beinsporthd3_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjQgOToyNzoxNiBBTSZoYXNoX3ZhbHVlPXAxUnk2MTlsNFRPN0dnTWVIM0l3UVE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOCZpZD1iZ2hyNzY2NDE4
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",Bein3
+https://r3-sn-5fo-c37ed9.googleuservideo.com/fifa55u_x1/beinsporthd3_480p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/The_Substance_poster.jpg",The Substance 2024 EN
+https://stream1.movie2free.tv/cdn/master/55e0f5f3e1620f8aa1a4210d9e7acc54/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/The_Polar_Bears_poster.jpg",The Polar Bare TH
+https://stream1.movie2free.tv/cdn/master/31496703e520fd84df39b4c6252b1e8f/master.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.korseries.com/wp-content/uploads/2024/08/hijack-1971-poster-1.jpg",hijack-1971 THmovie2free.tv
+https://stream1.movie2free.tv/cdn/master/be983084a63e5448f2806f202659a63e/master.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2021/12/03174714/5L9IPUqYZKXvM03XnUhM6OWenEH.jpg",wheel of fortune
+https://bg2-pbl.posticked.cfd/aes/tyH0giqmmXrciRV2zEqU2Q/1743954013/storage4/movies/14034966-wheel-of-fortune-and-fantasy-2021-1643822471/8f99acef488422d50e366ab20f414e95.mp4/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/5jPRwQFPrMKEuRo9LGPxi9/fff1e892f2e6b535844d72cb65e1e425/en_us_t_i_main_geeked_week_2024_buddha_data_vertical_27x40_rgb_pre_1.jpg",อนาคต EP1
+https://main.24playerhd.com/newplaylist/95e0418ead4e1d56b26dd152/95e0418ead4e1d56b26dd152.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/5jPRwQFPrMKEuRo9LGPxi9/fff1e892f2e6b535844d72cb65e1e425/en_us_t_i_main_geeked_week_2024_buddha_data_vertical_27x40_rgb_pre_1.jpg",อนาคต EP2
+https://main.24playerhd.com/newplaylist/6a9582983f859c04677f53da/6a9582983f859c04677f53da.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/5jPRwQFPrMKEuRo9LGPxi9/fff1e892f2e6b535844d72cb65e1e425/en_us_t_i_main_geeked_week_2024_buddha_data_vertical_27x40_rgb_pre_1.jpg",อนาคต EP3
+https://main.24playerhd.com/newplaylist/6a9582983f859c04677f53da/6a9582983f859c04677f53da.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/5jPRwQFPrMKEuRo9LGPxi9/fff1e892f2e6b535844d72cb65e1e425/en_us_t_i_main_geeked_week_2024_buddha_data_vertical_27x40_rgb_pre_1.jpg",อนาคต EP4
+https://main.24playerhd.com/newplaylist/5d15aac43a8cb39de67be690/5d15aac43a8cb39de67be690.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Music_by_John_Williams#/media/File:Music_by_John_Williams_poster.jpg",Music By John William
+https://main.24playerhd.com/newplaylist/acf4533f87235fe5dd11c91b/acf4533f87235fe5dd11c91b.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2016/10/Have-a-Song-on-Your-Lips-2015.jpg",Have a Song on your Lips
+https://streamhls.com/view/f231a933-d2ca-51ba-a7b9-e121b61d95f2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/My_PS_Partner-poster.jpg/220px-My_PS_Partner-poster.jpg",Watcha Wearin
+https://streamhls.com/view/18d30b35-b9cf-5b1d-9eb5-4ecb00e3f8cf.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/02/Obsessed-2014-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.png",Obsessed 2014
+https://main.24playerhd.com/newplaylist/fdb4444c4e87f26be8ee12a6/fdb4444c4e87f26be8ee12a6.m3u8
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Man-in-Love-2021-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%A7-1-187x269.jpg",Men In Love
+https://main.24playerhd.com/newplaylist/cdd8110c9270cda442b1f279/cdd8110c9270cda442b1f279.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/09/No-More-Bets-2023-300x450.jpg",No More Bet
+https://main.24playerhd.com/m3u8/733b5820f010d281d0d3d8d4/733b5820f010d281d0d3d8d4168.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP1
+https://main.24playerhd.com/newplaylist/a7f07c820d55618d99836ed1/a7f07c820d55618d99836ed1.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP2
+https://main.24playerhd.com/newplaylist/7eba1cd9e809cc1ea3e481e3/7eba1cd9e809cc1ea3e481e3.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP3
+https://main.24playerhd.com/newplaylist/7088306b8f7ed0f849cf4360/7088306b8f7ed0f849cf4360.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP4
+https://main.24playerhd.com/newplaylist/9268c1663c6fbf35ee492e77/9268c1663c6fbf35ee492e77.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP5
+https://main.24playerhd.com/newplaylist/63d90b6580c6629e89279906/63d90b6580c6629e89279906.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP6
+https://main.24playerhd.com/newplaylist/605bd6c26e5b99e58325afd6/605bd6c26e5b99e58325afd6.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP7
+https://main.24playerhd.com/newplaylist/e03b1e50d1478680f60b363f/e03b1e50d1478680f60b363f.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme-300x450.jpg",อังคารคลุมโปง Extreme EP8
+https://main.24playerhd.com/newplaylist/efc8b343a996306e039ddaad/efc8b343a996306e039ddaad.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/10/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%B9%E0%B8%9B-Love-Stuck-2024-300x450.jpg",Love stuck 2024
+https://main.24playerhd.com/newplaylist/059c30ec5c7e5eef3ff44f98/059c30ec5c7e5eef3ff44f98.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2016/02/thumb_1045.jpg",Inside Out 1
+https://streamhls.com/view/4fff8267-5eaf-5105-9544-205c159e67b5.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/01/Perfect-Days-2023-%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%87%E0%B8%B2%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89-1-300x450.jpg",Perfect Day 10/10
+https://main.24playerhd.com/newplaylist/8e0d4c2cfd92dbff2c6f7610/8e0d4c2cfd92dbff2c6f7610.m3u8
+#EXTINF:-1 tvg-logo="https://sls-prod.api-onscene.com/partner_files/trueidintrend/343825/cover_image/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7%20645%20Lucky%20Lotto%20%28645%20%E0%B8%A5%E0%B8%B1%E0%B8%84%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B9%82%E0%B8%95%E0%B9%89%29.jpg",Lucky Lotto KR (sub)
+https://main.24playerhd.com/newplaylist/b2c568b7f6337f04ec9beb64/b2c568b7f6337f04ec9beb64.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Sit-Down-with-Stand-Up-Udom-Taephanich-2024.jpg.jpg",ซิทดาวน์ วิท สแตนด์อัพ อุดม แต้พานิด
+https://hlsp2p.com/view/91a0187d-da31-581e-93a3-188f3c3cd951.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2023/10/Fair-Play-2023.jpg",Fair Play (sub)
+https://main.24playerhd.com/newplaylist/26b40cdd6332e69f4e9b7af9/26b40cdd6332e69f4e9b7af9.m3u8
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%9A%E2%80%A6%E0%B9%81%E0%B8%AD%E0%B9%8A%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%A2-300x450.jpg",No Hard Feeling (sub)
+https://master3.baraq.xyz/media/6520b6b9d2a08hSR/720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://subthai.tv/wp-content/uploads/2024/01/Society-of-the-Snow-2024.jpg", Society of snow (sub)
+https://master2.carlo-mt.xyz/PlayList/65975eeed3543vGe/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2024/01/Concrete-Utopia-2023.jpg",Concrete utopia ซับไทย
+https://master1.glacis.xyz/PlayList/651a37397fd789C6/master.m3u8
+#EXTINF:-1 tvg-logo="https://lzd-img-global.slatic.net/g/p/f004f6024df296da373d0fe76c566c52.jpg_720x720q80.jpg", The Point Men 2023 TH
+https://master2.ataxbayle.xyz/media/640153df8fae6iqv/360/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/12/Maestro-2023.jpg", Maesto 2023 EN
+https://master1.glacis.xyz/PlayList/6582ba2f321b1qJw/master.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/01/LTNS-300x450.jpg",LTNS 2024 KrEP6
+https://d1k2us671qcoau.cloudfront.net/vodapi/viu_var_thaws.m3u8?vid=77436a81e84d09b887b33a152831a904&layer=Layer2&area_id=4&lang_id=4&duration=180&duration_start=0&ts=202402071647&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMWsydXM2NzFxY29hdS5jbG91ZGZyb250Lm5ldC92b2RhcGkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNzMxMzY1Mn19fV19&Signature=SQr0tPtix4EQ6Zq55hFLKPi8QHn47aUHu1j5Q6Q9Sd4r2pccW~tLdOlSGiSM0z-w~KIIeG666j9cnZKFPQ4rhThdJyn8JJizwDeJQN5y2ErMflhQ~E-VR60QQgmqzUSuUCE7U2aXCS43WhN4KN80rHJ8DnkNf31gApYNlto1fmOD-Cu4mu36KeI5tGZFynDNGWwzHdd3huWjNfPrAQWyJwqM4yBTHh1dtoCaviz7GLRI0mbeb5BCVzIbPgBT86v8UO4ksV6XdQEVtnVGowfTE00JMhmgN4FJGkthqEUIhxNUq~IolFUw23fdCGdu39Vs43WGB6QGL1WCIMXpqJoYlA__&Key-Pair-Id=APKAJ6Z4RF5IYK7Y3SQQ
+
+#EXTINF:-1 tvg-chno="25"  tvg-id="GMM 25" tvg-name="GMM 25" group-title="Digital TV" tvg-logo="https://i.imgur.com/sWGT1SD.png",GMM 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
+
+#EXTINF:-1 tvg-chno="26"  tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="Digital TV" tvg-logo="https://i.imgur.com/9lsXfc0.png",BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
+
+#EXTINF:-1 tvg-chno="27"  tvg-id="CH8" tvg-name="CH8" group-title="Digital TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/02/Recalled-2021-%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%99-300x450.png",Recalled KR(2023)
+https://xxx.77player.xyz/ioshls/46fb721974caae00696b9cd03743902c/46fb721974caae00696b9cd03743902c.m3u8
+
+#EXTINF:-1 tvg-logo="https://seriesnung.com/wp-content/uploads/2022/05/lKGOqr7XyZRjeyeS5njARJZ9jeQ-204x300.jpg",TopGun Moverick
+https://cloudway.cloud/api/m3u8/6XzlsBGPmgsN0hQVrtUeeLBDvdTn8BLjJkAYGT46/default
+#EXTINF:-1 tvg-logo="https://tvallmovie.com/wp-content/uploads/2022/10/%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-13-2022.jpg",เดี่ยว 13
+https://m2-txt-2.omgsteam.work/playlist2/detail/49db1c27x3/720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2022/10/Deaw13-Thai-Stand-Up-Comedy-2022-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-13.png",เดี่ยว 13
+https://main.77player.xyz/m3u8/697c3ec4888295f901ea7e8a/697c3ec4888295f901ea7e8a168.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/02/Obsessed-2014-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-300x450.png",Obsessed KR แรงรักมรณะ
+https://main.77player.xyz/m3u8/eb963f5cf4d4bdf5cf0c870b/eb963f5cf4d4bdf5cf0c870b168.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/05/You-Me-Me-2023-%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%89%E0%B8%B1%E0%B8%99-300x450.jpg",You & Me & Me (2023) เธอกับฉันกับฉัน
+https://hlsp2p.com/view/a06326bf-9165-5fd2-a494-986f632c2096.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91XjuzQI1eL._AC_SL1500_.jpg",Red Mungo 2008 สยอง
+https://streamhls.com/view/fae1a53d-a65b-51e4-80a6-d4487a23df3b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/The-Recon-2021-%E0%B8%9B%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%AB%E0%B8%B2%E0%B8%A3-300x450.png",The Recon (2021) ปมปริศนาเขตปลอดทหาร
+https://main.77player.xyz/newplaylist/d476c3c54dc49868e539fbeb/d476c3c54dc49868e539fbeb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Midnight-2021-%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87-300x450.png",Midnight 2021 KR
+https://main.77player.xyz/m3u8/e3199003b2075f835c177a88/e3199003b2075f835c177a88168.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Emergency_Declaration.jpg",Emergency Declaration (2022) ไฟลต์คลั่ง ฝ่านรกชีวะ TH
+https://xxx.77player.xyz/iosplaylist/2898acc4c8871b6d85f53fc0cb7e24e1/2898acc4c8871b6d85f53fc0cb7e24e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Emergency_Declaration.jpg",Emergency Declaration (2022) ไฟลต์คลั่ง ฝ่านรกชีวะ KR
+https://xxx.77player.xyz/m3u8/5a77e87e61302f3d643887ce/5a77e87e61302f3d643887ce800.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Cassiopeia-2022-300x450.png",Cassiopeia (2022) KR
+https://xxx.77player.xyz/newplaylist/69640609d2c2f0fe258eb23d/69640609d2c2f0fe258eb23d.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/10/Hunt-2022-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99-%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A1%E0%B8%84%E0%B8%99-300x450.png",Hunt (2022) ล่าคน ปลอมคน KR
+https://main.77player.xyz/newplaylist/29955510b7948d1a2e6c37a6/29955510b7948d1a2e6c37a6.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvallseries.com/wp-content/uploads/2021/03/43cnNK074uCj9pt4VGwI5oSP9gn-185x278.jpg",Love Destiny บุพเพสันนิวาส Season 1 ตอนที่ 5
+https://www.watchlakorn.in/egde/e4da3b7fbbce2345d7772b0674a318d5/MTM2MQ==/NQ==/ZGF0YTUvMDctMDMtMjAxOC9CdXBwaGVzYW5uaXdhdC03LU1hci0yMDE4Lm1wNA==/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvallseries.com/wp-content/uploads/2021/03/43cnNK074uCj9pt4VGwI5oSP9gn-185x278.jpg",Love Destiny บุพเพสันนิวาส Season 1 ตอนที่ 6
+https://www.watchlakorn.in/egde/1679091c5a880faf6fb5e6087eb1b2dc/MTM2MQ==/Ng==/ZGF0YTUvMDgtMDMtMjAxOC9CdXBwaGVzYW5uaXdhdDEtOC1NYXItMjAxOC5tcDQ=/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvallseries.com/wp-content/uploads/2021/03/43cnNK074uCj9pt4VGwI5oSP9gn-185x278.jpg",Love Destiny บุพเพสันนิวาส Season 1 ตอนที่ 7
+https://www.watchlakorn.in/egde/8f14e45fceea167a5a36dedd4bea2543/MTM2MQ==/Nw==/ZGF0YTYvMTQtMDMtMjAxOC9CdXBwaGVzYW5uaXdhdC0xNC1NYXItMjAxOC5tcDQ=/index-v1-a1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-free.com/wp-content/uploads/2019/11/a10252dwvat.jpg",Case 39TH
+https://streamhls.com/view/74803451-6098-57d1-ac02-7a13f5b11818.m3u8 
+
+#EXTINF:-1 tvg-logo="https://nung2uhd.com/wp-content/uploads/2022/08/Broker-2022.jpeg",Broker (2022) จัดหารัก
+https://master2.ataxbayle.xyz/PlayList/630f2bdeadb28xJ8/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2023/03/Decision-to-Leave-2022-Poster.jpg",decision to leave KR movie
+https://sgcdnseriesn.xyz/view/ea33ab3e-fe74-566e-be0d-4a47e8fee741.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/09/Anatomy-of-Time-2022-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-300x450.png",Anatomy of time TH
+https://main.77player.xyz/m3u8/98100be79c5a36c246477c6a/98100be79c5a36c246477c6a168.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2021/04/Minari-2020-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B4.png",Minari Sub
+https://xxx.77player.xyz/ioshls/5c145d8dd1daed0c7d51abd1ec303f2e/5c145d8dd1daed0c7d51abd1ec303f2e.m3u8
+
+#EXTINF:-1,Conjuring The Beyond (2022)
+https://xxx.77player.xyz/ioshls/16efb64053776770fc584722583d3afb/16efb64053776770fc584722583d3afb.m3u8
+#EXTINF:-1,PK india
+https://antiddosleoplayer.com/x64m7ibg7gm9sdeied025k2h418thbjls0a/default/index.m3u8
+#EXTINF:-1,The gray man ล่องหนฆ่า Eng
+https://xxx.77player.xyz/m3u8/adbd982a384847bfc842e25c/adbd982a384847bfc842e25c800.m3u8
+#EXTINF:-1,The gray man ล่องหนฆ่า
+https://xxx.77player.xyz/m3u8/c77f436b207498dacb77423b/c77f436b207498dacb77423b800.m3u8
+#EXTINF:-1,The Spies เดอะสปาย สายลับภารกิจสังหาร KR
+https://xxx.77player.xyz/ioshls/200f1f8260036b090c5219410747b3ab/200f1f8260036b090c5219410747b3ab.m3u8
+#EXTINF:-1,King Richard sub
+https://xxx.77player.xyz/m3u8/b1d8a9623a767a74f38b0b18/b1d8a9623a767a74f38b0b18800.m3u8
+#EXTINF:-1,THE WITCH PART 1 THE SUBVERSION
+https://xxx.77player.xyz/autoplaylist/209cf61699bdcf5f6a7331fd56964fe1/209cf61699bdcf5f6a7331fd56964fe1.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNiZDc3NWUtNmQ5ZS00MTI0LWFjNGQtZGUwZDlmZmU0N2QyXkEyXkFqcGdeQXVyNTIxNTMxMjE@._V1_.jpg",The Witch Part 2 The Other One (2022) แม่มดมือสังหาร 2 KR
+https://main.77player.xyz/m3u8/04863751da666762b51aa9f8/04863751da666762b51aa9f8168.m3u8
+
+#EXTINF:-1,Time To hunt Kr
+https://xxx.77player.xyz/ioshls/8d8342621609eb0e053c8ee816d9ad7e/8d8342621609eb0e053c8ee816d9ad7e.m3u8
+#EXTINF:-1,Burning Kr
+https://xxx.77player.xyz/ioshls/13bce898ca4d9402cf08a2d0e11fca42/13bce898ca4d9402cf08a2d0e11fca42.m3u8
+#EXTINF:-1,Prey sub
+https://xxx.77player.xyz/m3u8/732db034805926444f539dda/732db034805926444f539dda800.m3u8
+#EXTINF:-1,carter th
+https://xxx.77player.xyz/m3u8/59c71299bfcb4498d6a950b4/59c71299bfcb4498d6a950b4800.m3u8
+#EXTINF:-1,Topgun th
+https://xxx.77player.xyz/ioshls/e61fa7dc94e6869117146d202aa147c9/e61fa7dc94e6869117146d202aa147c9.m3u8
+#EXTINF:-1,Till We meet again kr
+https://xxx.77player.xyz/iosplaylist/ba190774638999b5782de9a9bd046ab2/ba190774638999b5782de9a9bd046ab2.m3u8
+#EXTINF:-1,31 lives th
+https://xxx.77player.xyz/iosplaylist/beb4efacca2f8b26d8bde2d112ce711f/beb4efacca2f8b26d8bde2d112ce711f.m3u8
+#EXTINF:-1 tvg-logo="image":"https://overseer.blackboxsys.net/images/png/epl-1.png",EPL1
+https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="image":"https://overseer.blackboxsys.net/images/png/epl-1.png",EPL1
+https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd1
+#EXTINF:-1 tvg-logo="image":"https://overseer.blackboxsys.net/images/png/epl-1.png",EPL2
+https://www.andaman888th.com/football/?channel=truesporthd2&id=22
+#EXTINF:-1,Jurassic Park1
+https://xxx.77player.xyz/ioshls/b93be37d19ba97667cb48513f49fcd4e/b93be37d19ba97667cb48513f49fcd4e.m3u8
+#EXTINF:-1,assault of wall street
+https://xxx.77player.xyz/ioshls/8056b05c8996aab6f22e5aa1cc111f13/8056b05c8996aab6f22e5aa1cc111f13.m3u8
+#EXTINF:-1,Fall
+https://xxx.77player.xyz/m3u8/763d115262a8519aa83d37a2/763d115262a8519aa83d37a2800.m3u8
+#EXTINF:-1,Pinocchio (2022) พินอคคิโอ
+https://xxx.77player.xyz/m3u8/255d88e9385cb9b79e800124/255d88e9385cb9b79e800124800.m3u8
+
+#EXTINF:-1,PREMIER 1 M3U8
+http://w.nasvpn.xyz:8080/live/best/best/16395.m3u8
+#EXTINF:-1,PREMIER 1 PLAY ID
+https://raw.githubusercontent.com/Playidturl1/playlist/main/sportch/tpf1b.m3u8
+ 
+#EXTINF:-1,PREMIER 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115759
+#EXTINF:-1,PREMIER 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115760
+ 
+ 
+#EXTINF:-1,PREMIER 2
+https://cdn.googlecdnforstreaming.live/dbf789/epl2/chunks.m3u8
+#EXTINF:-1,PREMIER 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115509
+#EXTINF:-1,PREMIER 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115518
+ 
+#EXTINF:-1,PREMIER 3
+https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8 
+#EXTINF:-1,PREMIER 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115512
+#EXTINF:-1,PREMIER 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115520
+ 
+#EXTINF:-1,PREMIER 4
+https://cdn.googlecdnforstreaming.live/dbf789/epl4/chunks.m3u8
+#EXTINF:-1,PREMIER 4
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115513
+#EXTINF:-1,PREMIER 4
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115522
+ 
+#EXTINF:-1,PREMIER 5
+https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
+#EXTINF:-1,PREMIER 5
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115515
+#EXTINF:-1,PREMIER 5
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115525
+ 
+#EXTINF:-1  ,BEIN 1
+https://cdn.googlecdnforstreaming.live/dbf789/bein1/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football" ,BEIN 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115807
+ 
+#EXTINF:-1,BEIN 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115809
+#EXTINF:-1,BEIN 2
+https://cdn.googlecdnforstreaming.live/dbf789/bein2/chunks.m3u8
+ 
+#EXTINF:-1,BEIN 3
+https://cdn.googlecdnforstreaming.live/dbf789/bein3/chunks.m3u8
+#EXTINF:-1,BEIN 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115601
+ 
+#EXTINF:-1,SPOTV 1
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/spotv1/playlist.m3u8
+#EXTINF:-1,SPOTV 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115682
+#EXTINF:-1,SPOTV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+ 
+#EXTINF:-1,SPOTV 2
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/spotv2/playlist.m3u8
+#EXTINF:-1,SPOTV 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115433
+#EXTINF:-1,SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8 
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/4850.jpg",The Adventures of Tintin (2011)
+https://vs01.kkembed.com/files/mp4/W/WgvWs.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/4697.jpg",Yogi Bear (2010)
+https://vs01.kkembed.com/files/mp4/c/c9ET8.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4214.jpg",The Angry Birds Movie (2016) 
+https://vs01.kkembed.com/files/mp4/w/wsrxr.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/12/8321.jpg",The Angry Birds Movie 2 (2019) 
+https://vs01.kkembed.com/files/mp4/x/xX33a.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4166.jpg",Cloudy with a Chance of Meatballs (2009)
+https://vs01.kkembed.com/files/mp4/c/cHa16.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4167.jpg",Cloudy with a Chance of Meatballs 2 (2012)
+https://vs01.kkembed.com/files/mp4/i/ikHfP.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/02/3735.jpg",Rango (2011)
+https://vs01.kkembed.com/files/mp4/H/HSvXY.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3104.jpg",Up (2009)hengku
+https://vs01.kkembed.com/files/mp4/Q/QJyk7.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3104.jpg",Up (2009)govmovie
+https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-%E0%B8%9B%E0%B8%B9%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87-up-2009-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/1828
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3104.jpg",Up (2009) HD
+https://proxy1-cdn2.cdn9x.com/v73b0ekv/360p.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/754.jpg",Bee Movie (2007) 
+https://vs01.kkembed.com/files/mp4/w/wJjxT.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/754.jpg",Bee Movie (2007) HD
+https://www.xn--72czp5emaz0ab6b.com/player/m/10964/Bee-Movie-%282007%29-%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%9A%E0%B8%B4%E0%B9%8A%E0%B8%81/442609.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/698.jpg",A Bug’s Life (1998)
+https://vs01.kkembed.com/files/mp4/Q/QUfs7.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/09/231.jpg",Puss in Boots (2011) HD 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/9111/Puss-in-Boots-%282011%29-%E0%B8%9E%E0%B8%B8%E0%B8%8B-%E0%B8%AD%E0%B8%B4%E0%B8%99-%E0%B8%9A%E0%B8%B9%E0%B9%8A%E0%B8%97%E0%B8%AA%E0%B9%8C/419188.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/09/231.jpg",Puss in Boots (2011)
+https://hlsplay-7.gethlsplay.xyz/hls/8hebmcw/file_720.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/09/89.jpg",Horton Hears a Who!(2008) HD
+https://www.xn--72czp5emaz0ab6b.com/player/m/7743/Horton-Hears-a-Who!-%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B1%E0%B8%99-%E0%B8%81%E0%B8%B1%E0%B8%9A-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C-%282008%29/417375.html
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2022/01/12223.jpg",Home on the Range (2004)
+https://vs01.kkembed.com/files/mp4/g/g6kku.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2022/01/12090.jpg",Snoopy Presents For Auld Lang Syne (2021)
+https://vs01.kkembed.com/files/mp4/b/bTuWT.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2022/01/12053.jpg",Diary of a Wimpy Kid (2021)
+https://vs01.kkembed.com/files/mp4/I/I4IQd.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5949.jpg",The Boss Baby (2017)
+https://vs01.kkembed.com/files/mp4/7/7eDpL.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2022/01/11847.jpg",The Boss Baby Family Business (2021)
+https://vs01.kkembed.com/files/mp4/i/icrAp.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/9173.jpg",Cats and Peachtopia (2018)
+https://vs01.kkembed.com/files/mp4/1/101q1.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5842.jpg",The Flintstones & WWE: Stone Age Smackdown (2015)
+https://vs01.kkembed.com/files/mp4/P/Pxzhm.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/12/11193.jpg",A Goofy Movie (1995)
+https://vs01.kkembed.com/files/mp4/7/7U871.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/11/10675.jpg",Marnie s World (Spy Cat) (2018) 
+https://vs01.kkembed.com/files/mp4/5/53zBI.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/11/10602.jpg"Stand by Me Doraemon 2 (2020) 
+https://vs01.kkembed.com/files/mp4/a/aBxRI.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/7166.jpg",ครุฑ มหายุทธ หิมพานต์ (2018) 
+https://vs01.kkembed.com/files/mp4/v/vUQnC.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3238.jpg",คุณทองแดง (2015)
+https://vs01.kkembed.com/files/mp4/9/9gGUj.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/8909.jpg",ก้านกล้วย 1 (2006)
+https://vs01.kkembed.com/files/mp4/P/Pvr0m.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/8910.jpg",ก้านกล้วย 2 (2006)
+https://vs01.kkembed.com/files/mp4/e/ePtye.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/1294.jpg",ยักษ์ (2012) HD
+https://www.xn--72czp5emaz0ab6b.com/player/m/10626/%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C/398465.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/1294.jpg",ยักษ์ (2012) 
+https://vs01.kkembed.com/files/mp4/Q/QTYqo.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5718.jpg",เอคโค่ จิ๋วก้องโลก(2012) 
+https://vs01.kkembed.com/files/mp4/3/3sA7M.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/07/6867.jpg",9 ศาสตรา (2018)
+https://vs01.kkembed.com/files/mp4/n/n4GfC.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/11/10041.jpg",The Croods (2013)
+https://vs01.kkembed.com/files/mp4/R/RcF2l.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/9325.jpg",UglyDolls (2019)
+https://vs01.kkembed.com/files/mp4/H/HMChY.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/2772.jpg",Ice Age 1 (2002)
+https://vs01.kkembed.com/files/mp4/Q/QEQcO.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/2773.jpg",Ice Age 2 (2006)
+https://vs01.kkembed.com/files/mp4/z/zT1FR.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/2774.jpg",Ice Age 3 (2009)
+https://vs01.kkembed.com/files/mp4/A/AixGM.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/2775.jpg",Ice Age 4 (2012)
+https://vs01.kkembed.com/files/mp4/s/s78dh.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/4766.jpg",Ice Age 5 (2016)
+https://vs01.kkembed.com/files/mp4/H/H4vMo.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2022/01/12300.jpg",The Ice Age Adventures of Buck Wild (2022)
+https://vs01.kkembed.com/files/mp4/T/TjwO7.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/10/9380.jpg",Animal Crackers (2017)
+https://vs01.kkembed.com/files/mp4/N/NSrR9.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/5458.jpg",Khumba (2013) 
+https://vs01.kkembed.com/files/mp4/s/sM9mT.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/8156.jpg",Winnie the Pooh: A Very Merry Pooh Year (2002)
+https://vs01.kkembed.com/files/mp4/o/oIO0l.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/07/6799.jpg",Winnie the Pooh (2011)
+https://vs01.kkembed.com/files/mp4/R/Rpbxh.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5270.gif",The Many Adventures of Winnie the Pooh (1977)
+https://vs01.kkembed.com/files/mp4/J/J2A2e.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5959.jpg",Cars 1 (2006) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/10382/CARS-%282006%29-4-%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-/513694.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5959.jpg",Cars 1 (2006) 720
+https://hlsplay-4.gethlsplay.xyz/hls/k3fgukk/file_720.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5960.jpg",Cars 2 (2011) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/10383/CARS-2-%282011%29-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-%E0%B8%A0%E0%B8%B2%E0%B8%84-2/401769.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/5960.jpg",Cars 2 (2011) 720
+https://vs01.kkembed.com/files/mp4/W/WLUvv.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/6083.jpg",Cars 3 (2017) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/10384/CARS-3-%282017%29-%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8C%E0%B9%81%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B9%8C-/484182.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/06/6083.jpg",Cars 3 (2017) 720
+https://hlsplay-3a.gethlsplay.xyz/hls/ytlymk3/file_720.mp4/chunk.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51gn7gD4W1L._AC_SX342_.jpg",Despicable me (2010) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/7827/Despicable-Me-%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94-%282010%29/398143.html
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51gn7gD4W1L._AC_SX342_.jpg",Despicable me
+https://player.streamhee.com/static/players/player_2358.m3u8
+#EXTINF:-1 tvg-logo="https://www.ดูหนังอิอิ.com/uploads/cache/poster_thumb_web/uploads/jpg/4aae6e77c1d7a93e8bf77efca697bd8f.jpg",Despicable me 2 (2013) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/7986/Despicable-Me-2-%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94-2-%282013%29/394387.html
+#EXTINF:-1 tvg-logo="https://www.ดูหนังอิอิ.com/uploads/cache/poster_thumb_web/uploads/jpg/b3b5c6a0c603ecf48b06540725d78743.jpg",Despicable me 3 (2017) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/9621/Despicable-Me-3-%282017%29-%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%9A-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%94-3/486123.html
+
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-1_cover.jpg",Toy Story 1 (1995) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/12853/Toy-Story-1-%281995%29-%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88/385132.html
+
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-1_cover.jpg",Toy Story 1 (1995) 
+https://player.streamhee.com/static/players/player_2362.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-2_cover.jpg",Toy Story 2 (1999) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/12854/Toy-Story-2-%281999%29-%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-2/392497.html
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-2_cover.jpg",Toy Story 2 (1999) 
+https://player.streamhee.com/static/players/player_2385.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-3_cover.jpg",Toy Story 3 (2010) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/12855/Toy-Story-3-%282010%29-%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-3/413895.html 
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Toy-Story-3_cover.jpg",Toy Story 3 (2010)
+https://hlsplay-2-1.gethlsplay.xyz/hls/gpwz3yw/file_720.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1561352100_toy-story-4_cover.jpg",Toy Story 4 (2019) 
+https://hlsplay-1.gethlsplay.xyz/hls/omvq4jd/file_720.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2022/01/9U5s3Yj00upChbeHwHlz9FBMfcv-185x278.jpg",Toy Story That Time Forgot (2014) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/9461/Toy-Story-That-Time-Forgot----%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%89/550518.html
+
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2022/01/9U5s3Yj00upChbeHwHlz9FBMfcv-185x278.jpg",Toy Story That Time Forgot (2014) 
+https://hlsplay-2-1.gethlsplay.xyz/hls/fsk21z1/file_720.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4399.jpg",Madagascar (2005) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/14129/Madagascar-%282005%29-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C/1229000.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4399.jpg",Madagascar (2005)
+https://player.streamhee.com/static/players/player_2379.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4398.jpg",Madagascar 2 Escape Africa (2008) 1080P
+https://www.xn--72czp5emaz0ab6b.com/movie/14147/Madagascar-%282008%29-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-2-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%AD%E0%B8%9F%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4398.jpg",Madagascar 2 Escape Africa (2008)
+https://player.streamhee.com/static/players/player_2364.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4397.jpg",Madagascar 3: Europe’s Most Wanted (2012) 1080P
+https://www.xn--72czp5emaz0ab6b.com/player/m/14147/Madagascar-%282008%29-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-2-%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%AD%E0%B8%9F%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2/1228244.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/03/4397.jpg",Madagascar 3: Europe’s Most Wanted (2012)
+https://vs01.kkembed.com/files/mp4/g/gyGR2.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3065.jpg",Open Season 1 (2006)
+https://player.streamhee.com/static/players/player_2375.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/02/3064.jpg",Open Season 2 (2008)
+https://player.streamhee.com/static/players/player_2365.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/3063.jpg",Open Season 3 (2010) 
+https://vs01.kkembed.com/files/mp4/v/vwMRl.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3079.jpg",Open Season: Scared Silly (2015) 
+https://govmovie.org/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-open-season-scared-silly-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C-%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94-2015-full-%E0%B8%8A%E0%B8%B1%E0%B8%94hd/info/4859
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91KE271NPEL._SY550_.jpg",Thinker Bell
+https://player.streamhee.com/static/players/player_2367.m3u8
+#EXTINF:-1 tvg-logo="https://cdni-cf.ch7.com/dm/sz-sm/i/mg/f/e/a/fea90a7781c0074f22913cf548528e5c_77wall-e-new.jpg",Wall.E
+https://player.streamhee.com/static/players/player_2368.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/08/7991.jpg",Meet The robinson
+https://player.streamhee.com/static/players/player_2369.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5614.jpg",Ratatouille (2007)
+https://player.streamhee.com/static/players/player_2370.m3u8
+
+#EXTINF:-1 tvg-logo="https://cf.shopee.co.th/file/945cb4b27d8aab57783b6d0372c112e0",Pocahontas
+https://player.streamhee.com/static/players/player_2361.m3u8
+
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/05/5380.jpg",Tom And Jerry The Fast And The Furry (2005)
+https://vs01.kkembed.com/files/mp4/7/7scBk.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Tom_and_Jerry_A_Nutcracker_Tale_cover.jpg",Tom & Jerry A Nutcracker Tale
+https://player.streamhee.com/static/players/player_2373.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/11/10747.jpg",Tom and Jerry’s Giant Adventure (2013) 
+https://vs01.kkembed.com/files/mp4/9/9AxHt.m3u8
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2021/12/fF6I48WGKktHfGYYSVKPTVildWE-150x150.jpg",Tom and Jerry The Magic Ring (2002) 
+https://hlsplay-3a.gethlsplay.xyz/hls/xfv2pkj/file_360.mp4/chunk.m3u8
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2021/12/s2Tegfa5IOUkFx988FgTFZth189-150x150.jpg",Tom and Jerry The Lost Dragon (2014) 
+https://hlsplay-3a.gethlsplay.xyz/hls/zwgw0xp/file_720.mp4/chunk.m3u8
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2021/03/w7CwyAwwCd24gp1mAcReorzq1Xn-150x150.jpg",Tom and Jerry (2021) 
+https://hlsplay-3a.gethlsplay.xyz/hls/sxxgtjd/file_720.mp4/chunk.m3u8
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2020/08/vsQBkkMDsquRGW4SSoD2VZ8uW73-185x278.jpg",Tom and Jerry: Robin Hood (2012) 
+https://hlsplay-4.gethlsplay.xyz/hls/h31uhbw/file_720.mp4/chunk.m3u8?nimblesessionid=628456
+#EXTINF:-1 tvg-logo="https://gomovieon.com/wp-content/uploads/2019/11/lRXpOazybgbCff6xZjCPbRP685p-185x278.jpg",Monster House
+https://player.streamhee.com/static/players/player_2374.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ดูหนังอิอิ.com/uploads/cache/poster_thumb_web/uploads/jpg/582bda09187048ded6f2600b98b81c52.jpg",Antz HD (1998)
+https://www.xn--72czp5emaz0ab6b.com/player/m/1712/Antz-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%83%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%A1%E0%B8%94-%281998%29/444482.html
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3003.jpg",The Ant bully
+https://player.streamhee.com/static/players/player_2377.m3u8
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_thewild_19901_b1ed784d.jpeg",The wild
+https://player.streamhee.com/static/players/player_2378.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/3342.jpg",Robots (2005)
+https://player.streamhee.com/static/players/player_2380.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/07/6568.jpg",The Incredibles (2004)
+https://player.streamhee.com/static/players/player_2382.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/11/2013.jpg",The Polar Express (2004) 
+https://player.streamhee.com/static/players/player_2383.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/2902.jpg",Tarzan (1999) 
+https://player.streamhee.com/static/players/player_2384.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/01/2914.jpg",Tarzan II (2005) 
+https://vs01.kkembed.com/files/mp4/P/PmFPp.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/09/2902.jpg",Tarzan (2013) 
+https://vs01.kkembed.com/files/mp4/y/yBgoc.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2021/04/4961.jpg",Monster inc.
+https://player.streamhee.com/static/players/player_2386.m3u8
+#EXTINF:-1 tvg-logo="https://hengku666.com/wp-content/uploads/2020/10/1125.jpg",shrek
+https://player.streamhee.com/static/players/player_2371.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a9/64/a9/a964a9051d164eff1391205a50609abf.png",shrek
+https://player.streamhee.com/static/players/player_2381.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a9/64/a9/a964a9051d164eff1391205a50609abf.png",shrek
+https://player.streamhee.com/static/players/player_2387.m3u8
+#EXTINF:-1 tvg-logo="https://cf.shopee.co.th/file/de7177bdecbba4c3797cefae743fe10c",The Simson
+https://player.streamhee.com/static/players/player_2372.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/136x/f1g01weu/kung-fu-panda-german-movie-poster-sm.jpg",Kunfu Panda
+https://player.streamhee.com/static/players/player_2363.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png",Cartoon 19
+https://player.streamhee.com/static/players/player_2376.m3u8
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Cartoon-designstyle-cartoon-m.png",Cartoon 9
+https://player.streamhee.com/static/players/player_2366.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WT8x7KwHQA0GGd7enghfWa1DCIoRIwRTnw&usqp=CAU group-title="movie" , Doraemon The Movie (1980) ไดโนเสาร์ของโนบิตะ
+https://slave01.players2u.com/hls3/89f088264928a0d0dfe04b865e8255a5/89f088264928a0d0dfe04b865e8255a5.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo429Gw3Th21AcZlB85rdQJbwsarn9w29O4w&usqp=CAU group-title="movie​" ,Doraemon The Movie (1981) โนบิตะนักบุกเบิกอวกาศ
+https://slave02.players2u.com/hls/2eded547f6d3f5b27fcc308298e192e6/2eded547f6d3f5b27fcc308298e192e6.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpdSIeXXTmBb2b8oI5Fk7LbWh6C4BiOJZMA&usqp=CAU group-title="movie​" ,Doraemon The Movie (1982) บุกแดนมหัศจรรย์
+https://slave02.players2u.com/hls6/885227d4ce44a30d255c699b7d5ae109/885227d4ce44a30d255c699b7d5ae109.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVafa9dxY7FceRT7Yb8rnpWqmymrKsId-OHw&usqp=CAU group-title="movie​" ,DORAEMON THE MOVIE (1983) ตะลุยปราสาทใต้สมุทร
+http://149.56.18.18/901001-902000/901107.mp4
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-2j4mCpBSg5pxg5Ew_TTi1PJoUvewppAwA&usqp=CAU group-title="movie​" ,Doraemon The Movie (1984) โนบิตะท่องแดนเวทมนต์
+https://slave02.players2u.com/hls2/6a11fae6446fca9f8686339a683fcbc3/6a11fae6446fca9f8686339a683fcbc3.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgmqMFWzcsM7Axgtd3UgZjpaspA8Gq5aUKKg&usqp=CAU group-title="movie​" ,Doraemon The Movie 6 (1985) โดเรม่อนเดอะมูฟวี่ สงครามอวกาศ
+https://movie2o.com/hls/7e1d016794ce33142a0edc311ab5f07a/7e1d016794ce33142a0edc311ab5f07a.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxKP2aVTRjOyF5ncBdCldXq3xZ3kkF0xrHw&usqp=CAU group-title="movie​" ,Doraemon The Movie (1986) สงครามหุ่นเหล็ก
+https://movie2o.com/hls/e03468e20c74e4b254ed3c0e8a3f5bcf/e03468e20c74e4b254ed3c0e8a3f5bcf.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsXYQKL_W1b8QjQsNody2AJ2zju9kmVHgtg&usqp=CAU group-title="movie​" ,Doraemon The Movie (1987) บุกแดนใต้พิภพ
+https://slave01.players2u.com/hls3/91708174ae58df3c9f8628719f226a07/91708174ae58df3c9f8628719f226a07.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0fC8Beu25LjiA1fnQFM0Y-spQhx9THsgNw&usqp=CAU group-title="movie​" ,Doraemon The Movie (1988) ท่องแดนเทพนิยายไซอิ๋ว
+https://slave01.players2u.com/hls6/872dec9d719193683d37cd2c19da2b11/872dec9d719193683d37cd2c19da2b11.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgo9bCIRRkRwOo3RkCON8ruKoEob2j1_kIFA&usqp=CAU group-title="movie​" ,Doraemon The Movie (1989) ท่องแดนญี่ปุ่นโบราณ
+https://slave02.players2u.com/hls/ff5a8b3dfbb7a70d4985109ba6eaa974/ff5a8b3dfbb7a70d4985109ba6eaa974.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_s6QpvBUQJOQzD85O4UEnhNRBkM2TAmFkw&usqp=CAU group-title="movie" ,Doraemon The Movie (1990)​ ตะลุยดาวต่างมิติ
+https://files.akuma-player.xyz/view/5411c2f3-acbf-5d0c-9753-c1ace34f4832.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVqDp5u4As9kDtd56CjOoYqGkgv7ggsvPNw&usqp=CAU group-title="movie​" ,Doraemon The Movie (1991) โนบิตะท่องอาหรับราตรี
+https://files.akuma-player.xyz/view/bb4c01f5-1131-56b7-9b52-a3dead2e2dbf.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKYqcOQgghq6HR5XCodQTvyDO7w0dC71Zig&usqp=CAU group-title="movie​" ,DORAEMON THE MOVIE (1992) บุกอาณาจักรเมฆ
+https://p2phls.xyz/6gt3mbmrs23f7k366zo14q4dsxj49r5g2mh/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3lHuPpySATNlzNHSK9awj-IepA4936xJcQ&usqp=CAU group-title="movie​" ,Doraemon The Movie (1993) ฝ่าแดนเขาวงกต
+https://files.akuma-player.xyz/view/fafb86a4-ac71-5e52-aaa9-e536933aa9e8.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW0nU6ev_ql97VsnkgSvq2_2TMG8fOVVOOhg&usqp=CAU group-title="movie​" ,Doraemon The Movie (1994) สามอัศวินในจินตนาการ
+https://p2phls.xyz/t34aob08isr55dcqk6p31au1ibncsmnxy4a/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PaGJx-3ewppZi_7leR04WH--fM8MBxygpg&usqp=CAU group-title="movie​" ,Doraemon The Movie (1995) ตำนานการสร้างโลก
+https://movie2o.com/hls/c91788a14f25f30e31b3fcb6728c3aa6/c91788a14f25f30e31b3fcb6728c3aa6.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XzMgJV8JK8V4uWrdjccpC9YCSs-4LKBafQ&usqp=CAU group-title="movie​" ,Doraemon The Movie (1996) ผจญภัยสายกาแล็คซี่
+https://files.akuma-player.xyz/view/48703bb7-1233-5b68-bca3-baf882466ade.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0AgDdn_FOHDg5jVZ8iekMQChvB_YUIYRmA&usqp=CAU group-title="movie​" ,DORAEMON THE MOVIE (1997) ผจญภัยเมืองในฝัน
+http://149.56.18.18/901001-902000/901110.mp4
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRICszoWPZi04Vu68q9W6pvNNP58MoJ6ZDSiA&usqp=CAU group-title="movie​" ,Doraemon The Movie (1998) ผจญภัยเกาะมหาสมบัติ
+https://vs01.kkembed.com/files/mp4/P/P3Wl0.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp2_NtTjuZfuE0RoCFoYNJvnZ9HGzWIIhieQ&usqp=CAU group-title="movie​" ,Doraemon The Movie (1999) ตะลุยอวกาศ
+https://antiddosleoplayer.com/uv3wabdaqg6fdriot7muux2kwfqpybsgf2h/default/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqViCeY5NBpomSM2Uz0yF6eUGT2spCJWWhQ&usqp=CAU group-title="movie​" ,Doraemon The Movie (2000) ตำนานสุริยกษัตริย์
+https://p2phls.xyz/q0s8b6gfbwg5go1g2f7h27t81kzwgxyjsxd/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GOxiaCJdK_by8CWZ_3ANH0ynQ95MPvI7qg&usqp=CAU group-title="movie​" ,Doraemon The Movie (2001) โนบิตะและอัศวินแดนวิหค
+https://p2phls.xyz/0r0fkysvmgq2p22w855nm08cp51qtnk2s9i/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPRuqGn3tXg84DzeYB-epO_fXvLiOQj6QHw&usqp=CAU group-title="movie​" ,Doraemon The Movie (2002) โนบิตะตะลุยอาณาจักรหุ่นยนต์
+https://master.server-cdn-streaming.com/api/uploads/movie/1555/video/1706/hls/movie.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXpKGnJ53nzvis1IUkCVK1KT81lbQTsaNXw&usqp=CAU group-title="movie​" ,Doraemon The Movie (2003) โนบิตะผจญภัยดินแดนแห่งสายลม
+https://ds.nungdd4free.com/videos/202105/30/60b1ac0b5bcb0133dcda9315/ffea6d/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxcrB7A8wNWmHP_Vbo0tRKs1OEi7v2jKpo5w&usqp=CAU group-title="movie​" ,Doraemon The Movie (2004) โดราเอมอน ตอน โนบิตะท่องอาณาจักรโฮ่งเหมียว
+https://p2phls.xyz/wqio3l7s9y2e9hfqocrqlvmwwer0he74yti/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3TZWXsBd_lNWnng_sKPLCpQX08za3VBMLQ&usqp=CAU group-title="movie
+",Doraemon The Movie (2006)ไดโนเสาร์ของโนบิตะ
+https://p2phls.xyz/8ntqf1yjd4to1ebcbqszrmi4vyzaynisf39/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSllUSijs4FOH_birSuLvPBm1eikvECNfBv1A&usqp=CAU group-title="movie​" ,Doraemon The Movie (2007) โนบิตะตะลุยแดนปีศาจ 7 ผู้วิเศษ
+https://p2phls.xyz/4gw44p6agy0iysy49gkmkedn5kyz4djpqap/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzNoxhXnBrfhPpOwTDQcU1U-pE25fgzkrng&usqp=CAU group-title="movie​" ,Doraemon The Movie (2008) โนบิตะกับตำนานยักษ์พฤกษา
+https://p2phls.xyz/f0j9q3r0nyeqpz0aa49zoqdkru72os8y0tn/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg5_SUpqmUOOhsCaa5NKfS5zvxHqP621Yk6w&usqp=CAU group-title="movie​" ,Doraemon The Movie (2009) โนบิตะนักบุกเบิกอวกาศ
+https://antiddosleoplayer.com/z6cb034rcsmrpnwtdxhujvlpteh47inzz6s/default/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWHmUuuAkKuOKBU23OGFYb4_4dDf6Nv6mMA&usqp=CAU group-title="movie​" ,DORAEMON THE MOVIE (2010) สงครามเงือกใต้สมุทร
+http://149.56.18.18/901001-902000/901140.mp4
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_oRvOsxwwgw99Xd0rL_KsvsRLbBBVZaz-g&usqp=CAU group-title="movie​" ,Doraemon The Movie (2011) โนบิตะผจญกองทัพมนุษย์เหล็ก
+http://149.56.18.18/901001-902000/901142.mp4
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_F2LH9vUDfDCS0X6WBb9qcMJm3hjjs7qoEw&usqp=CAU group-title="movie​
+" ,Doraemon The Movie (2012) โนบิตะผจญภัยในเกาะมหัศจรรย์
+http://149.56.18.18/901001-902000/901138.mp4
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ0Otws-zTKf2LfGp6Dei6rDPov5okz-yGuw&usqp=CAU group-title="movie​" ,Doraemon The Movie (2013) โนบิตะล่าโจรปริศนาในพิพิธภัณฑ์ของวิเศษ
+https://movie2o.com/hls/04797cc05a8fa26970c81e1eb63282e0/04797cc05a8fa26970c81e1eb63282e0.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LiQMRtfdoi2TzhR8z4uSxJK-8WswcKQo7Q&usqp=CAU group-title="movie​" ,Doraemon The Movie (2014) โนบิตะ บุกดินแดนมหัศจรรย์ เปโกะกับห้าสหายนักสำรวจ
+https://p2phls.xyz/rojjratadpzilklyplueqqqsuu2igeqtniz/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxLUTBPQd9gONIxpKmeR0bxFdlYjvUQPqd3g&usqp=CAU group-title="movie​" ,Doraemon The Movie (2015) โนบิตะผู้กล้าแห่งอวกาศ
+https://slave03.players2u.com/hls1/75cc35191d19b310b5e3ddfab9e1397b/75cc35191d19b310b5e3ddfab9e1397b.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsL7XHGyLuVegmU9uJ8NDcZ0QBtbm2qqejVw&usqp=CAU group-title="movie​" ,Doraemon The Movie (2017) โดราเอมอน ตอน โนบิตะกำเนิดประเทศญี่ปุ่น
+https://slave01.players2u.com/hls/e96900dcda88e441fb8b3ac9253d485e/e96900dcda88e441fb8b3ac9253d485e.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0UBji1O41Ofa6QaoBom45A1zlLnoW5DAog&usqp=CAU group-title="movie​" ,Doraemon the Movie (2017) Great Adventure in the Antarctic Kachi Kochi โดราเอมอน ตอน คาชิ-โคชิ การผจญภัยขั้วโลกใต้ของโนบิตะ
+https://p2phls.xyz/c9d3qhjry3hz7t47gincsy9azdexlqwz8h1/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEPvKQHbYlclFthp_l4_KtreoawLFUyf3RA&usqp=CAU group-title="movie​
+" ,Doraemon The Movie (2019) โดราเอมอน ตอน เกาะมหาสมบัติของโนบิตะ
+https://p2phls.xyz/9nc1grzczkeggk5tnhwz6m5l55h2bpk6klu/720/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl56TmMpEHFh5oc8z6en9K-zcQN6TKFjrL9g&usqp=CAU group-title="movie​" ,Doraemon The Movie (2019) โดราเอม่อนเดอะมูฟวี่ โนบิตะสำรวจดินแดนจันทรา
+https://p2phls.xyz/muirf7mqrjb3chaqyflw4wo88v9bzkfg6ze/720/index.m3u8
