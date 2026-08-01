@@ -17,10 +17,11 @@ https://freelive2.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8?nimblesession
 #EXTINF:-1 tvg-id="monomax1" tvg-name="Monomax 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Entertainment",Monomax 1
 https://3mjmbtn8rm.3ppnkog.com/do-ball.com/monomax-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI2IDM6MjU6MTIgQU0maGFzaF92YWx1ZT10dmdPRlZuc2xwWHpyYUpCendBN3pnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x
 
-#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 6 ก.ค. ผีอาโป
-https://www.watchlakorn.net/egdeny/19c3fd26632e830e7d7906b26665d0ae/aGQ=/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 25 เมษา
-https://www.watchlakorn.in/egdeny/bbc537ee40bb3e9026dfeec56661d82c/aGQ=/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 18 ก.ค. ดอกคูณเจ็บตัวแม่ครัว
+https://cdn.watchlakorn.in/egdeny/bed7ba8f1f7a2dbfa6e29315bed43e57/aGQ=/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 25 กรกฎา เอิร์ทก้นแตก
+https://cdn.watchlakorn.in/egdeny/d0fc33dd8fefb35d70166bcfa6868acb/aGQ=/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2022/08/The-Swindlers-2017-300x450.png?w=200",The Swindler
 https://hot.24playerhd.com/iosplaylist/908205a0d2ef0432f7a3061fb1edf767/908205a0d2ef0432f7a3061fb1edf767.m3u8
 #EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2025/06/Elio-2025-%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%AD-300x450.png?w=200",Elio
