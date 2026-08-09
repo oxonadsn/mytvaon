@@ -19,7 +19,7 @@ https://3mjmbtn8rm.3ppnkog.com/do-ball.com/monomax-1/playlist.m3u8?wmsAuthSign=c
 
 #EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 18 ก.ค. ดอกคูณเจ็บตัวแม่ครัว
 https://cdn.watchlakorn.in/egdeny/bed7ba8f1f7a2dbfa6e29315bed43e57/aGQ=/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 25 กรกฎา เอิร์ทก้นแตก
+#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 8 สิงหาคม เอิร์ธก้นแหก ชันจะได้เป็นนายแบบบ่ล่ะ
 https://cdn.watchlakorn.in/egdeny/d0fc33dd8fefb35d70166bcfa6868acb/aGQ=/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2022/08/The-Swindlers-2017-300x450.png?w=200",The Swindler
@@ -28,6 +28,9 @@ https://hot.24playerhd.com/iosplaylist/908205a0d2ef0432f7a3061fb1edf767/908205a0
 https://main.24playerhd.com/newplaylist/adf1dbef7b968a436378f46b/adf1dbef7b968a436378f46b.m3u8
 #EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2025/11/In-Your-Dreams-2025-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%9D%E0%B8%B1%E0%B8%99-300x450.png?w=200",In Your dream
 https://main.24playerhd.com/newplaylist/5272e3fe0b7722768099925b/5272e3fe0b7722768099925b.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/d05/3ec/d053eced5ec6a8b458a79c17a65be6ced5036d1c08e7aab74f2c38854e0d9f58:200?w=200",MUTV
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&extension=m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.123-hds.com/wp-content/uploads/2024/07/Toy-Story-2-1999-%E0%B8%97%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-2-300x450.jpg?w=200",Toy Story2
