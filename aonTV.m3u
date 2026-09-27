@@ -17,8 +17,8 @@ https://freelive2.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8?nimblesession
 #EXTINF:-1 tvg-id="monomax1" tvg-name="Monomax 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Entertainment",Monomax 1
 https://3mjmbtn8rm.3ppnkog.com/do-ball.com/monomax-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI2IDM6MjU6MTIgQU0maGFzaF92YWx1ZT10dmdPRlZuc2xwWHpyYUpCendBN3pnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x
 
-#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 18 ก.ค. ดอกคูณเจ็บตัวแม่ครัว
-https://cdn.watchlakorn.in/egdeny/bed7ba8f1f7a2dbfa6e29315bed43e57/aGQ=/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 27 ก.ค. ดอกคูณเจ็บตัวแม่ครัว
+https://www.watchlakorn.org/pegdeny/483d48a3b4fd8daf42ea42efcd73b853/aGQ=/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 8 สิงหาคม เอิร์ธก้นแหก ชันจะได้เป็นนายแบบบ่ล่ะ
 https://cdn.watchlakorn.in/egdeny/d0fc33dd8fefb35d70166bcfa6868acb/aGQ=/master.m3u8
 
@@ -33,13 +33,13 @@ https://main.24playerhd.com/newplaylist/5272e3fe0b7722768099925b/5272e3fe0b77227
 
 #EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/d05/3ec/d053eced5ec6a8b458a79c17a65be6ced5036d1c08e7aab74f2c38854e0d9f58:200?w=200",MUTV
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&extension=m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/08/SX-2026-203x300.jpg",S&X ep1
-https://main.24playerhd.com/newplaylist/e0a285ecc96bec700dba80ef/e0a285ecc96bec700dba80ef.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/08/SX-2026-203x300.jpg",S&X ep2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVZvNASRqY91hD09g1cXHpErhGX.jpg",ก่อนความสุขจางหาย until the shirt dries ep1
+https://getplay-cdn.com/api/stream/ee7112775636939f591196d27c2692d5176d89c43224f13923678ff0e4683384/index.m3u8?token=037e5a57ed401b62affc6b0508b02d312a0e7b7d1d2b91e449a902fcfe788460&expires=1790507419&parent=wow-drama.com&sid=5be7cf4a
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVZvNASRqY91hD09g1cXHpErhGX.jpg",ก่อนความสุขจางหาย until the shirt dries ep2
 https://main.24playerhd.com/newplaylist/4740203f63baf3aaf3132da5/4740203f63baf3aaf3132da5.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/08/SX-2026-203x300.jpg",S&X ep3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVZvNASRqY91hD09g1cXHpErhGX.jpg",ก่อนความสุขจางหาย until the shirt dries ep3
 https://main.24playerhd.com/newplaylist/38ab0da46406da8aa1e93b9e/38ab0da46406da8aa1e93b9e.m3u8
-#EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/08/SX-2026-203x300.jpg",S&X ep4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xVZvNASRqY91hD09g1cXHpErhGX.jpg",ก่อนความสุขจางหาย until the shirt dries ep4
 https://main.24playerhd.com/newplaylist/3e270ba6426020304aa23597/3e270ba6426020304aa23597.m3u8
 #EXTINF:-1 tvg-logo="https://www.seriedays.com/wp-content/uploads/2026/08/SX-2026-203x300.jpg",S&X ep5
 https://main.24playerhd.com/newplaylist/8332620d3a99a10a4ff6d28d/8332620d3a99a10a4ff6d28d.m3u8
