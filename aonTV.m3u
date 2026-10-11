@@ -17,10 +17,10 @@ https://freelive2.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8?nimblesession
 #EXTINF:-1 tvg-id="monomax1" tvg-name="Monomax 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Entertainment",Monomax 1
 https://3mjmbtn8rm.3ppnkog.com/do-ball.com/monomax-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI2IDM6MjU6MTIgQU0maGFzaF92YWx1ZT10dmdPRlZuc2xwWHpyYUpCendBN3pnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x
 
-#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 30 ก.ย. 
-https://www.watchlakorn.org/pegdeny/59dd61e0fd84b83a963026d74ed64933/aGQ=/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 8 สิงหาคม เอิร์ธก้นแหก ชันจะได้เป็นนายแบบบ่ล่ะ
-https://cdn.watchlakorn.in/egdeny/d0fc33dd8fefb35d70166bcfa6868acb/aGQ=/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 3 ตุลาคม 
+https://www.watchlakorn.org/pegdeny/5ba609adb68d6891cdf2713a4412d397/aGQ=/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.watchlakorn.net/storage/images/av-1515515403.jpg?w=200",สุภาพบุรุษ 10 ตุลาคม
+https://www.watchlakorn.org/pegdeny/ad70b1b3acd67fd2377308db459a47de/aGQ=/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/movie_sm/202608/movie/4767455d3b5afcf071136397b6ba5de9.jpg?w=200",Gohan
 https://vod1.stream25.com/Gohan-2026-tha.mp4.m3u8
